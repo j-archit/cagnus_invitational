@@ -1,0 +1,43 @@
+[Event "Cagnus Invitational"]
+[Site ""]
+[Date "2021.12.03"]
+[Round "1"]
+[White "Vineet"]
+[Black "Angad"]
+[Result "1-0"]
+[WhiteElo "1795"]
+[BlackElo "1800"]
+
+{[%SevillaID "1021"]}
+[Event "Casual Rapid game"] [Site "https://lichess.org/coeYstIV"] [Date
+"2021.12.03"] [White "vineetgupta0"] [Black "angad24"] [Result "1-0"] [UTCDate
+"2021.12.03"] [UTCTime "14:20:47"] [WhiteElo "1795"] [BlackElo "1854"] [Variant
+"Standard"] [TimeControl "600+5"] [ECO "D12"] [Opening "Slav Defense: Quiet
+Variation, Schallopp Defense"] [Termination "Time forfeit"] [Annotator
+"lichess.org"]  1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 { D12 Slav Defense: Quiet
+Variation, Schallopp Defense } 5. Nc3 e6 6. Be2 Be7 7. O-O O-O 8. Qb3?! { (0.46
+? -0.31) Inaccuracy. Nh4 was best. } (8. Nh4 dxc4 9. Bxc4 Nbd7 10. Qe2 Nb6 11.
+Bb3 Re8 12. Rd1 a5) 8... Qc7 9. Nh4 Bg6?! { (-0.44 ? 0.25) Inaccuracy. Ng4 was
+best. } (9... Ng4 10. Nf3 h6 11. Bd2 Nf6 12. Rfc1 Re8 13. Be1 a5 14. a4 Nbd7 15.
+h3 Bh7 16. Qd1) 10. Nxg6 hxg6 11. f4 a5 12. Rf3?! { (-0.08 ? -0.80) Inaccuracy.
+cxd5 was best. } (12. cxd5) 12... Ne4? { (-0.80 ? 0.22) Mistake. Nbd7 was best.
+} (12... Nbd7 13. a4 dxc4 14. Qxc4 Nb6 15. Qb3 Bb4 16. Rf1 c5 17. Na2 cxd4 18.
+Nxb4 axb4 19. Qxb4) 13. cxd5?! { (0.22 ? -0.29) Inaccuracy. g4 was best. } (13.
+g4 Nd7 14. Nxe4 dxe4 15. Rh3 c5 16. Bd2 Rfd8 17. Rf1 Qb6 18. Bc3 Qxb3 19. axb3
+a4) 13... cxd5 14. Rh3? { (-0.41 ? -1.54) Mistake. Rf1 was best. } (14. Rf1 Nxc3
+15. Qxc3 Qb6 16. Bd2 a4 17. Rab1 Nc6 18. Qd3 Na5 19. Qb5 Qxb5 20. Bxb5 Nc4)
+14... f5? { (-1.54 ? -0.18) Mistake. Rc8 was best. } (14... Rc8 15. Nxe4 dxe4
+16. Qd1 Nd7 17. g4 Nb6 18. g5 Nd5 19. a3 Rab8 20. Bd2 Qc2 21. Rb1) 15. Nxe4 fxe4
+16. Bd2 a4 17. Qd1 Nc6?! { (0.00 ? 0.53) Inaccuracy. Qb6 was best. } (17... Qb6
+18. Bc3) 18. Bg4?! { (0.53 ? -0.39) Inaccuracy. Rg3 was best. } (18. Rg3) 18...
+Rf6?! { (-0.39 ? 0.22) Inaccuracy. Kf7 was best. } (18... Kf7) 19. Be1 Qd6 20.
+a3 Raf8 21. Qxa4 g5 22. Bg3?? { (1.05 ? -1.01) Blunder. g3 was best. } (22. g3)
+22... gxf4 23. Bxf4 Rxf4 24. exf4 Qxf4?? { (-0.97 ? 8.75) Blunder. Rxf4 was
+best. } (24... Rxf4) 25. Bxe6+ Rf7 26. Bxf7+ Qxf7 27. Qa8+ Qf8 28. Qxb7 Nxd4 29.
+Qxd5+ Qf7 30. Qxd4 Qb3?! { (11.77 ? Mate in 6) Checkmate is now unavoidable. Qe6
+was best. } (30... Qe6 31. Re1) 31. Re1?! { (Mate in 6 ? 12.56) Lost forced
+checkmate sequence. Rxb3 was best. } (31. Rxb3 e3 32. Rb8+ Kf7 33. Qd5+ Kg6 34.
+g4 Bd6 35. Qf5+ Kh6 36. Rh8#) 31... Bf6 32. Qxf6 { White wins on time. } 1-0 
+1-0
+
+

@@ -1,0 +1,67 @@
+[Event "Cagnus Invitational"]
+[Site ""]
+[Date "2021.12.03"]
+[Round "1"]
+[White "Raghav"]
+[Black "Saksham"]
+[Result "0-1"]
+[WhiteElo "1363"]
+[BlackElo "1637"]
+
+{[%SevillaID "1022"]}
+[Event "Rated Rapid game"] [Site "https://lichess.org/gEl2EB6z"] [Date
+"2021.12.03"] [White "VioletRiddle"] [Black "whosaksham"] [Result "0-1"]
+[UTCDate "2021.12.03"] [UTCTime "14:34:59"] [WhiteElo "1412"] [BlackElo "1637"]
+[WhiteRatingDiff "-7"] [BlackRatingDiff "+8"] [Variant "Standard"] [TimeControl
+"600+5"] [ECO "D08"] [Opening "Queen's Gambit Declined: Albin Countergambit"]
+[Termination "Normal"] [Annotator "lichess.org"]  1. d4 d5 2. c4 e5?! { (0.29 ?
+0.87) Inaccuracy. c6 was best. } { D08 Queen's Gambit Declined: Albin
+Countergambit } (2... c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. Be2) 3.
+e3?! { (0.87 ? 0.00) Inaccuracy. dxe5 was best. } (3. dxe5 Ne7 4. f4 Nbc6 5. Nf3
+Be6 6. Bd2 Nf5 7. cxd5 Bxd5) 3... Bb4+?! { (0.00 ? 0.57) Inaccuracy. exd4 was
+best. } (3... exd4 4. exd4 Bb4+ 5. Nc3 Nf6 6. Bd3 O-O 7. Nf3 Bg4 8. O-O) 4. Nc3
+c6? { (0.44 ? 1.61) Mistake. exd4 was best. } (4... exd4 5. Qxd4 Nf6 6. cxd5
+Bxc3+ 7. Qxc3 O-O 8. Nf3 Nxd5 9. Qd2) 5. Be2? { (1.61 ? 0.09) Mistake. dxe5 was
+best. } (5. dxe5 Ne7) 5... exd4?! { (0.09 ? 0.85) Inaccuracy. dxc4 was best. }
+(5... dxc4 6. Bxc4 exd4 7. exd4 Nf6 8. Qe2+ Qe7 9. a3 Ba5 10. Bg5) 6. exd4?! {
+(0.85 ? 0.23) Inaccuracy. Qxd4 was best. } (6. Qxd4 Qf6 7. Nf3 Qxd4 8. Nxd4 Nf6
+9. a3 Bxc3+ 10. bxc3 O-O) 6... Nf6 7. Nf3 O-O 8. O-O Bg4 9. h3?! { (0.48 ?
+-0.42) Inaccuracy. cxd5 was best. } (9. cxd5 cxd5 10. h3 Bh5 11. Qb3 Bxc3 12.
+Qxb7 Bxb2 13. Qxb2 Nc6 14. Be3 Na5 15. Rac1 Bxf3) 9... Be6?! { (-0.42 ? 0.35)
+Inaccuracy. Bxf3 was best. } (9... Bxf3 10. Bxf3) 10. Qb3 Qb6?? { (0.36 ? 3.75)
+Blunder. Bxc3 was best. } (10... Bxc3 11. bxc3 Qc7 12. Ne5 Nbd7 13. cxd5 cxd5
+14. Bf4 Rfc8 15. Rac1 Nb6 16. f3 Nc4 17. Bh2) 11. c5 Qa5 12. Bg5? { (3.68 ?
+2.12) Mistake. Nd1 was best. } (12. Nd1) 12... Bxc3 13. bxc3 Ne4?! { (2.37 ?
+3.61) Inaccuracy. Qc7 was best. } (13... Qc7) 14. Qxb7 Nd7 15. Qb3?? { (3.65 ?
+0.92) Blunder. Qxc6 was best. } (15. Qxc6 Nxc3 16. Bd3 Rac8 17. Qa6 Qc7 18. Be7
+Nb8 19. Qd6 Rfe8 20. Qxc7 Rxc7 21. Bd6 Rb7) 15... Qxc3 16. Qxc3 Nxc3 17. Bd3 Ne4
+18. Be3 h6?! { (1.30 ? 1.86) Inaccuracy. Rfb8 was best. } (18... Rfb8 19. Rfb1)
+19. Bxe4?? { (1.86 ? -0.20) Blunder. Ba6 was best. } (19. Ba6 Rab8) 19... dxe4
+20. Nd2 Nf6 21. Rab1 Bxa2 22. Rb7?! { (-0.61 ? -1.27) Inaccuracy. Ra1 was best.
+} (22. Ra1 Bd5) 22... Rfb8 23. Rc7?! { (-1.68 ? -2.56) Inaccuracy. Rxb8+ was
+best. } (23. Rxb8+ Rxb8) 23... Bd5 24. f3? { (-2.70 ? -4.36) Mistake. Rb1 was
+best. } (24. Rb1 Rb5) 24... a5?? { (-4.36 ? -1.31) Blunder. exf3 was best. }
+(24... exf3 25. Nxf3 Rb2 26. Rf2 Rb3 27. Bc1 a5 28. Ne5 Ne8 29. Re7 a4 30. Nxf7
+Rb1 31. Rf1) 25. fxe4 Nxe4 26. Rf4?? { (-1.42 ? -7.87) Blunder. Nxe4 was best. }
+(26. Nxe4 Rb3) 26... Nxd2 27. Bxd2 a4 28. Re7 Rb2 29. Bc3 Rxg2+ 30. Kf1 Rg3 31.
+Be1 Rxh3 32. Rf2 Rf3 33. Rxf3 Bxf3 34. Re3 Bd5 35. Ra3 Bb3 36. Ke2 g5 37. Ke3
+Bd5 38. Kf2 Kg7 39. Kg3 Kg6 40. Kg4 f5+ 41. Kg3 f4+ 42. Kg4? { (-9.75 ? Mate in
+9) Checkmate is now unavoidable. Kf2 was best. } (42. Kf2) 42... h5+?! { (Mate
+in 9 ? -13.63) Lost forced checkmate sequence. Re8 was best. } (42... Re8 43.
+Bd2 h5+ 44. Kh3 Re2 45. Bxf4 gxf4 46. Kh4 Bb3 47. Rxb3 axb3 48. Kh3 b2 49. d5)
+43. Kh3 f3 44. Kg3 Rf8 45. Rxa4 h4+ 46. Kf2 Kh5 47. Bd2 g4 48. Ra1?! { (-16.01 ?
+Mate in 16) Checkmate is now unavoidable. Ra8 was best. } (48. Ra8 g3+) 48...
+g3+ 49. Kf1 Kg4?! { (Mate in 7 ? -19.33) Lost forced checkmate sequence. Bc4+
+was best. } (49... Bc4+ 50. Ke1 f2+ 51. Kd1 f1=Q+ 52. Kc2 Qd3+ 53. Kc1 Rf1 + 54.
+Be1 Qc3+ 55. Kb1 Rxe1#) 50. Re1?! { (-19.33 ? Mate in 5) Checkmate is now
+unavoidable. Be3 was best. } (50. Be3 h3) 50... g2+?! { (Mate in 5 ? -26.47)
+Lost forced checkmate sequence. Bc4+ was best. } (50... Bc4+ 51. Kg1 f2+ 52. Kg2
+h3+ 53. Kh1 f1 =Q+ 54. Rxf1 Rxf1#) 51. Kf2 h3 52. Re7?! { (-40.89 ? Mate in 5)
+Checkmate is now unavoidable. Bh6 was best. } (52. Bh6 Rg8) 52... Rh8?! { (Mate
+in 5 ? -19.12) Lost forced checkmate sequence. g1=Q+ was best. } (52... g1=Q+
+53. Kxg1 f2+ 54. Kf1 Bc4+ 55. Re2 Kf3 56. d5 Bxe2#) 53. Rg7+ Kf5 54. Rg3?! {
+(-16.46 ? Mate in 8) Checkmate is now unavoidable. Rg5+ was best. } (54. Rg5+
+Ke4) 54... h2 55. Rg5+ Ke4 56. Rg4+ Kd3 { White resigns. } 0-1 
+0-1
+
+
