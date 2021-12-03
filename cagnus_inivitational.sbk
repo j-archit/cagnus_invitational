@@ -5,7 +5,7 @@
     <AppVsn>19.1.2</AppVsn>
     <Version>7.2.0</Version>
     <FileType>Competition file</FileType>
-    <Created>03-12-2021 11:44:49 PM</Created>
+    <Created>04-12-2021 01:00:08 AM</Created>
   </Contents>
   <Comp>
     <Name>Cagnus Invitational</Name>
@@ -16,7 +16,7 @@
     <Site></Site>
     <FederationType>4</FederationType>
     <FederationSubst>0006</FederationSubst>
-    <CountryCode></CountryCode>
+    <CountryCode>in</CountryCode>
     <Organization></Organization>
     <OrganizationEMail></OrganizationEMail>
     <SpeedOfPlay></SpeedOfPlay>
@@ -32,7 +32,7 @@
     <StyleSheet></StyleSheet>
     <MoveInputLanguage>en</MoveInputLanguage>
     <MoveDisplayLanguage>en</MoveDisplayLanguage>
-    <MoveDisplayType>0</MoveDisplayType>
+    <MoveDisplayType>1</MoveDisplayType>
     <PairingSyst>2</PairingSyst>
     <SwsVar>0</SwsVar>
     <KzrVar>0</KzrVar>
@@ -237,7 +237,7 @@
     <MainOrder>0</MainOrder>
     <PairingOrder>0</PairingOrder>
     <MainOrderEqPairingOrder>1</MainOrderEqPairingOrder>
-    <AggRankingLimit>4</AggRankingLimit>
+    <AggRankingLimit>8</AggRankingLimit>
     <AggScoreType>0</AggScoreType>
     <PairOnPeriod>0</PairOnPeriod>
     <PairOnPeriodMutual>1</PairOnPeriodMutual>
@@ -378,7 +378,7 @@
     <ValueRoundingDecimals>2</ValueRoundingDecimals>
     <RepRtgInHist>0</RepRtgInHist>
     <ExtendColChartWithPlays>0</ExtendColChartWithPlays>
-    <GameData1>0</GameData1>
+    <GameData1>4</GameData1>
     <GameData2>0</GameData2>
     <GameData3>0</GameData3>
     <PCFlex1>1</PCFlex1>
@@ -416,7 +416,7 @@
     <FTPUseTLS>0</FTPUseTLS>
     <FTPOptions>0000</FTPOptions>
     <UseSFTP>0</UseSFTP>
-    <WebValues>H:\\Chess\\Tournaments\\Cagnus Invitational~index.html~sevilla.css~1~1~0~0~1~0~1~1~1~0~5~0~0~0~0~0~0~0~0~0~0~0~0~~0~30~30~120~120~0~0~1~0~0~0~2~0~0~0~C:\\Program Files\\JBF Software\\Sevilla\\CSS~~1~1~1~1~0~0~1~1~1~1~1~1~1~1~0~0~32~21~0~0~0~0~0~1~0~0~0~1~0~0~0~1~0~0~0~0~1~1~1~0~1</WebValues>
+    <WebValues>H:\\Chess\\Tournaments\\Cagnus Invitational~index.html~sevilla.css~0~1~0~0~0~1~0~1~0~1~1~1~1~1~0~0~0~0~0~0~0~0~0~~0~30~30~120~120~0~0~1~1~0~0~0~0~0~0~C:\\Program Files\\JBF Software\\Sevilla\\CSS~~1~1~1~1~0~0~1~1~1~1~1~1~1~1~0~2~32~21~1~0~0~7~2~1~1~1~0~1~1~0~0~1~1~1~0~0~1~1~1~0~0</WebValues>
     <ExcelExchValues></ExcelExchValues>
     <MRepSelection></MRepSelection>
     <SimType>2</SimType>
@@ -575,36 +575,33 @@
       <RankOrder>0</RankOrder>
       <RankInclGames>0</RankInclGames>
       <RankInclAbs>0</RankInclAbs>
-      <RankInclStats>0</RankInclStats>
+      <RankInclStats>1</RankInclStats>
       <UseOnWebsite>1</UseOnWebsite>
       <MinGames>0</MinGames>
       <MinGamesType>0</MinGamesType>
       <RankItem>0</RankItem>
       <RankItem>1</RankItem>
+      <RankItem>20</RankItem>
       <RankItem>2</RankItem>
       <RankItem>3</RankItem>
-      <RankItem>4</RankItem>
       <RankItem>5</RankItem>
-      <RankItem>8</RankItem>
+      <RankItem>4</RankItem>
       <RankItem>15</RankItem>
-      <RankItem>16</RankItem>
       <RankItem>17</RankItem>
       <RankItem>91</RankItem>
     </RankLayout>
     <PlayerLayout>
       <PlayerLayoutItem>0</PlayerLayoutItem>
+      <PlayerLayoutItem>4</PlayerLayoutItem>
+      <PlayerLayoutItem>6</PlayerLayoutItem>
       <UseCompression>0</UseCompression>
       <ResultBetweenPlayers>0</ResultBetweenPlayers>
     </PlayerLayout>
     <PlayerListLayout>
       <PlayerListLayoutItem>0</PlayerListLayoutItem>
       <PlayerListLayoutItem>1</PlayerListLayoutItem>
-      <PlayerListLayoutItem>2</PlayerListLayoutItem>
-      <PlayerListLayoutItem>3</PlayerListLayoutItem>
       <PlayerListLayoutItem>10</PlayerListLayoutItem>
-      <PlayerListLayoutItem>4</PlayerListLayoutItem>
       <PlayerListLayoutItem>19</PlayerListLayoutItem>
-      <PlayerListLayoutItem>8</PlayerListLayoutItem>
     </PlayerListLayout>
     <Period>
       <ID>0</ID>
@@ -688,9 +685,9 @@
       <NrPlayers>8</NrPlayers>
       <NrPlayerProhibiteds>0</NrPlayerProhibiteds>
       <NrMcMahonRules>0</NrMcMahonRules>
-      <NrRounds>7</NrRounds>
-      <ActPlayer>0</ActPlayer>
-      <ActRound>6</ActRound>
+      <NrRounds>8</NrRounds>
+      <ActPlayer>7</ActPlayer>
+      <ActRound>1</ActRound>
       <Player>
         <ID>0</ID>
         <PlayerID></PlayerID>
@@ -701,7 +698,7 @@
         <Alias></Alias>
         <PairingNr>0</PairingNr>
         <AltID></AltID>
-        <CountryCode></CountryCode>
+        <CountryCode>in</CountryCode>
         <City></City>
         <EMail></EMail>
         <SendMail>1</SendMail>
@@ -728,7 +725,7 @@
         <Alias></Alias>
         <PairingNr>1</PairingNr>
         <AltID></AltID>
-        <CountryCode></CountryCode>
+        <CountryCode>in</CountryCode>
         <City></City>
         <EMail></EMail>
         <SendMail>1</SendMail>
@@ -755,7 +752,7 @@
         <Alias></Alias>
         <PairingNr>2</PairingNr>
         <AltID></AltID>
-        <CountryCode></CountryCode>
+        <CountryCode>in</CountryCode>
         <City></City>
         <EMail></EMail>
         <SendMail>1</SendMail>
@@ -782,7 +779,7 @@
         <Alias></Alias>
         <PairingNr>3</PairingNr>
         <AltID></AltID>
-        <CountryCode></CountryCode>
+        <CountryCode>in</CountryCode>
         <City></City>
         <EMail></EMail>
         <SendMail>1</SendMail>
@@ -809,7 +806,7 @@
         <Alias></Alias>
         <PairingNr>4</PairingNr>
         <AltID></AltID>
-        <CountryCode></CountryCode>
+        <CountryCode>in</CountryCode>
         <City></City>
         <EMail></EMail>
         <SendMail>1</SendMail>
@@ -836,7 +833,7 @@
         <Alias></Alias>
         <PairingNr>5</PairingNr>
         <AltID></AltID>
-        <CountryCode></CountryCode>
+        <CountryCode>in</CountryCode>
         <City></City>
         <EMail></EMail>
         <SendMail>1</SendMail>
@@ -863,7 +860,7 @@
         <Alias></Alias>
         <PairingNr>6</PairingNr>
         <AltID></AltID>
-        <CountryCode></CountryCode>
+        <CountryCode>in</CountryCode>
         <City></City>
         <EMail></EMail>
         <SendMail>1</SendMail>
@@ -890,7 +887,7 @@
         <Alias></Alias>
         <PairingNr>7</PairingNr>
         <AltID></AltID>
-        <CountryCode></CountryCode>
+        <CountryCode>in</CountryCode>
         <City></City>
         <EMail></EMail>
         <SendMail>1</SendMail>
@@ -925,6 +922,7 @@
           <Res>1</Res>
           <Type>1</Type>
           <Submit>0</Submit>
+          <MemoLine>https://lichess.org/xoU2s9NZ</MemoLine>
           <MoveList>[Event \"Rated Rapid game\"]</MoveList>
           <MoveList>[Site \"https://lichess.org/xoU2s9NZ\"]</MoveList>
           <MoveList>[Date \"2021.12.03\"]</MoveList>
@@ -971,6 +969,68 @@
           <Black>7</Black>
           <Res>1</Res>
           <Type>1</Type>
+          <MemoLine>https://lichess.org/yjVa63Ii</MemoLine>
+          <MoveList>[Event \"Casual Rapid game\"]</MoveList>
+          <MoveList>[Site \"https://lichess.org/yjVa63Ii\"]</MoveList>
+          <MoveList>[Date \"2021.12.03\"]</MoveList>
+          <MoveList>[White \"j-archit\"]</MoveList>
+          <MoveList>[Black \"ujjawalaggarwal955\"]</MoveList>
+          <MoveList>[Result \"1-0\"]</MoveList>
+          <MoveList>[UTCDate \"2021.12.03\"]</MoveList>
+          <MoveList>[UTCTime \"13:34:25\"]</MoveList>
+          <MoveList>[WhiteElo \"1857\"]</MoveList>
+          <MoveList>[BlackElo \"1500\"]</MoveList>
+          <MoveList>[Variant \"Standard\"]</MoveList>
+          <MoveList>[TimeControl \"600+5\"]</MoveList>
+          <MoveList>[ECO \"A21\"]</MoveList>
+          <MoveList>[Opening \"English Opening: King's English Variation, Reversed</MoveList>
+          <MoveList>Sicilian\"]</MoveList>
+          <MoveList>[Termination \"Normal\"]</MoveList>
+          <MoveList>[Annotator \"lichess.org\"]</MoveList>
+          <MoveList></MoveList>
+          <MoveList>1. c4 \{ [\%eval 0.23] [\%clk 0:10:00] \} 1... e5 \{ [\%eval 0.12] [\%clk</MoveList>
+          <MoveList>0:10:00] \} 2. Nc3 \{ [\%eval 0.16] [\%clk 0:10:03] \} \{ A21 English</MoveList>
+          <MoveList>Opening: King's English Variation, Reversed Sicilian \} 2... Qg5? \{</MoveList>
+          <MoveList>(0.16 → 1.69) Mistake. Nf6 was best. \} \{ [\%eval 1.69] [\%clk</MoveList>
+          <MoveList>0:10:00] \} (2... Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Bc5 7.</MoveList>
+          <MoveList>O-O) 3. Nf3 \{ [\%eval 1.71] [\%clk 0:09:56] \} 3... Qh6?? \{ (1.71 →</MoveList>
+          <MoveList>3.80) Blunder. Qe7 was best. \} \{ [\%eval 3.8] [\%clk 0:09:57] \} (3...</MoveList>
+          <MoveList>Qe7 4. Nd5 Qd8 5. Nxe5 c6 6. Nc3 Nf6 7. d4 Bb4 8. Bd2) 4. d4 \{</MoveList>
+          <MoveList>[\%eval 3.7] [\%clk 0:09:51] \} 4... f6?? \{ (3.70 → 9.17) Blunder. Qe6</MoveList>
+          <MoveList>was best. \} \{ [\%eval 9.17] [\%clk 0:09:50] \} (4... Qe6 5. Nxe5 Nf6 6.</MoveList>
+          <MoveList>e3 Bb4 7. Qb3 Bxc3+ 8. Qxc3 O-O 9. f3 d5 10. b3 Qe7 11. Nd3) 5.</MoveList>
+          <MoveList>Bxh6 \{ [\%eval 9.27] [\%clk 0:09:52] \} 5... gxh6 \{ [\%eval 10.45] [\%clk</MoveList>
+          <MoveList>0:09:50] \} 6. dxe5 \{ [\%eval 10.0] [\%clk 0:09:55] \} 6... fxe5 \{ [\%eval</MoveList>
+          <MoveList>10.47] [\%clk 0:09:52] \} 7. Nxe5 \{ [\%eval 9.84] [\%clk 0:09:58] \} 7...</MoveList>
+          <MoveList>Na6 \{ [\%eval 14.38] [\%clk 0:09:39] \} 8. e4 \{ [\%eval 10.07] [\%clk</MoveList>
+          <MoveList>0:10:00] \} 8... Bd6?! \{ (10.07 → Mate in 6) Checkmate is now</MoveList>
+          <MoveList>unavoidable. Nf6 was best. \} \{ [\%eval #6] [\%clk 0:09:32] \} (8... Nf6</MoveList>
+          <MoveList>9. Nd3 d6 10. Be2 Rg8 11. O-O Be7 12. Bh5+ Kf8 13. Qf3 Rg5 14.</MoveList>
+          <MoveList>Nd5 Rxh5 15. Nxf6) 9. Qh5+ \{ [\%eval #5] [\%clk 0:09:21] \} 9... Kf8 \{</MoveList>
+          <MoveList>[\%eval #1] [\%clk 0:08:58] \} 10. Be2?! \{ (Mate in 1 → 14.92) Lost</MoveList>
+          <MoveList>forced checkmate sequence. Qf7# was best. \} \{ [\%eval 14.92] [\%</MoveList>
+          <MoveList>clk 0:09:08] \} (10. Qf7#) 10... Nf6?! \{ (14.92 → Mate in 1)</MoveList>
+          <MoveList>Checkmate is now unavoidable. Bxe5 was best. \} \{ [\%eval #1] [\%</MoveList>
+          <MoveList>clk 0:08:29] \} (10... Bxe5 11. Qxe5 d6 12. Qxh8 Be6 13. Qxh7 Re8</MoveList>
+          <MoveList>14. O-O-O Bf7 15. f3 Nc5 16. Nb5 Re7 17. Nxa7) 11. Qxh6+ \{ [\%</MoveList>
+          <MoveList>eval #5] [\%clk 0:08:49] \} 11... Ke7 \{ [\%eval #5] [\%clk 0:08:00] \} 12.</MoveList>
+          <MoveList>Qg7+ \{ [\%eval #4] [\%clk 0:08:28] \} 12... Ke6 \{ [\%eval #4] [\%clk</MoveList>
+          <MoveList>0:07:18] \} 13. Qxh8?! \{ (Mate in 4 → 15.62) Lost forced checkmate</MoveList>
+          <MoveList>sequence. Bg4+ was best. \} \{ [\%eval 15.62] [\%clk 0:08:23] \} (13.</MoveList>
+          <MoveList>Bg4+ Kxe5 14. O-O-O h6 15. Rd5+ Kf4 16. g3#) 13... Bxe5 \{ [\%</MoveList>
+          <MoveList>eval 14.81] [\%clk 0:07:09] \} 14. O-O \{ [\%eval 12.45] [\%clk 0:08:08]</MoveList>
+          <MoveList>\} 14... Nc5 \{ [\%eval 14.47] [\%clk 0:05:50] \} 15. f4 \{ [\%eval 13.94]</MoveList>
+          <MoveList>[\%clk 0:07:28] \} 15... Bd4+ \{ [\%eval 15.05] [\%clk 0:05:26] \} 16. Kh1</MoveList>
+          <MoveList>\{ [\%eval 14.62] [\%clk 0:07:31] \} 16... b5 \{ [\%eval 22.81] [\%clk</MoveList>
+          <MoveList>0:05:06] \} 17. Nxb5 \{ [\%eval 17.76] [\%clk 0:07:23] \} 17... Bxb2 \{ [\%</MoveList>
+          <MoveList>eval 24.74] [\%clk 0:04:44] \} 18. Nxc7+ \{ [\%eval 18.46] [\%clk</MoveList>
+          <MoveList>0:07:13] \} 18... Kf7 \{ [\%eval 19.0] [\%clk 0:04:03] \} 19. Nxa8 \{ [\%</MoveList>
+          <MoveList>eval 18.42] [\%clk 0:07:04] \} 19... Ba6 \{ [\%eval 22.3] [\%clk 0:03:52]</MoveList>
+          <MoveList>\} 20. e5 \{ [\%eval 20.63] [\%clk 0:06:57] \} 20... Nfe4?! \{ (20.63 →</MoveList>
+          <MoveList>Mate in 3) Checkmate is now unavoidable. Bxa1 was best. \} \{ [\%</MoveList>
+          <MoveList>eval #3] [\%clk 0:03:25] \} (20... Bxa1 21. Qxf6+) 21. Qxh7+ \{ [\%eval</MoveList>
+          <MoveList>#4] [\%clk 0:06:57] \} 21... Ke6 \{ [\%eval #1] [\%clk 0:03:07] \} 22. Nc7</MoveList>
+          <MoveList># \{ [\%clk 0:06:54] \} \{ White wins by checkmate. \} 1-0</MoveList>
         </Game>
         <Game>
           <GameID>1021</GameID>
@@ -978,6 +1038,54 @@
           <Black>2</Black>
           <Res>1</Res>
           <Type>1</Type>
+          <MemoLine>https://lichess.org/coeYstIV</MemoLine>
+          <MoveList>[Event \"Casual Rapid game\"]</MoveList>
+          <MoveList>[Site \"https://lichess.org/coeYstIV\"]</MoveList>
+          <MoveList>[Date \"2021.12.03\"]</MoveList>
+          <MoveList>[White \"vineetgupta0\"]</MoveList>
+          <MoveList>[Black \"angad24\"]</MoveList>
+          <MoveList>[Result \"1-0\"]</MoveList>
+          <MoveList>[UTCDate \"2021.12.03\"]</MoveList>
+          <MoveList>[UTCTime \"14:20:47\"]</MoveList>
+          <MoveList>[WhiteElo \"1795\"]</MoveList>
+          <MoveList>[BlackElo \"1854\"]</MoveList>
+          <MoveList>[Variant \"Standard\"]</MoveList>
+          <MoveList>[TimeControl \"600+5\"]</MoveList>
+          <MoveList>[ECO \"D12\"]</MoveList>
+          <MoveList>[Opening \"Slav Defense: Quiet Variation, Schallopp Defense\"]</MoveList>
+          <MoveList>[Termination \"Time forfeit\"]</MoveList>
+          <MoveList>[Annotator \"lichess.org\"]</MoveList>
+          <MoveList></MoveList>
+          <MoveList>1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 \{ D12 Slav Defense: Quiet</MoveList>
+          <MoveList>Variation, Schallopp Defense \} 5. Nc3 e6 6. Be2 Be7 7. O-O O-O</MoveList>
+          <MoveList>8. Qb3?! \{ (0.46 → -0.31) Inaccuracy. Nh4 was best. \} (8. Nh4</MoveList>
+          <MoveList>dxc4 9. Bxc4 Nbd7 10. Qe2 Nb6 11. Bb3 Re8 12. Rd1 a5) 8... Qc7</MoveList>
+          <MoveList>9. Nh4 Bg6?! \{ (-0.44 → 0.25) Inaccuracy. Ng4 was best. \} (9...</MoveList>
+          <MoveList>Ng4 10. Nf3 h6 11. Bd2 Nf6 12. Rfc1 Re8 13. Be1 a5 14. a4 Nbd7</MoveList>
+          <MoveList>15. h3 Bh7 16. Qd1) 10. Nxg6 hxg6 11. f4 a5 12. Rf3?! \{ (-0.08 → -</MoveList>
+          <MoveList>0.80) Inaccuracy. cxd5 was best. \} (12. cxd5) 12... Ne4? \{ (-0.80 →</MoveList>
+          <MoveList>0.22) Mistake. Nbd7 was best. \} (12... Nbd7 13. a4 dxc4 14. Qxc4</MoveList>
+          <MoveList>Nb6 15. Qb3 Bb4 16. Rf1 c5 17. Na2 cxd4 18. Nxb4 axb4 19.</MoveList>
+          <MoveList>Qxb4) 13. cxd5?! \{ (0.22 → -0.29) Inaccuracy. g4 was best. \} (13.</MoveList>
+          <MoveList>g4 Nd7 14. Nxe4 dxe4 15. Rh3 c5 16. Bd2 Rfd8 17. Rf1 Qb6 18.</MoveList>
+          <MoveList>Bc3 Qxb3 19. axb3 a4) 13... cxd5 14. Rh3? \{ (-0.41 → -1.54)</MoveList>
+          <MoveList>Mistake. Rf1 was best. \} (14. Rf1 Nxc3 15. Qxc3 Qb6 16. Bd2 a4</MoveList>
+          <MoveList>17. Rab1 Nc6 18. Qd3 Na5 19. Qb5 Qxb5 20. Bxb5 Nc4) 14... f5?</MoveList>
+          <MoveList>\{ (-1.54 → -0.18) Mistake. Rc8 was best. \} (14... Rc8 15. Nxe4</MoveList>
+          <MoveList>dxe4 16. Qd1 Nd7 17. g4 Nb6 18. g5 Nd5 19. a3 Rab8 20. Bd2</MoveList>
+          <MoveList>Qc2 21. Rb1) 15. Nxe4 fxe4 16. Bd2 a4 17. Qd1 Nc6?! \{ (0.00 →</MoveList>
+          <MoveList>0.53) Inaccuracy. Qb6 was best. \} (17... Qb6 18. Bc3) 18. Bg4?! \{</MoveList>
+          <MoveList>(0.53 → -0.39) Inaccuracy. Rg3 was best. \} (18. Rg3) 18... Rf6?! \{</MoveList>
+          <MoveList>(-0.39 → 0.22) Inaccuracy. Kf7 was best. \} (18... Kf7) 19. Be1 Qd6</MoveList>
+          <MoveList>20. a3 Raf8 21. Qxa4 g5 22. Bg3?? \{ (1.05 → -1.01) Blunder. g3</MoveList>
+          <MoveList>was best. \} (22. g3) 22... gxf4 23. Bxf4 Rxf4 24. exf4 Qxf4?? \{ (-</MoveList>
+          <MoveList>0.97 → 8.75) Blunder. Rxf4 was best. \} (24... Rxf4) 25. Bxe6+ Rf7</MoveList>
+          <MoveList>26. Bxf7+ Qxf7 27. Qa8+ Qf8 28. Qxb7 Nxd4 29. Qxd5+ Qf7 30.</MoveList>
+          <MoveList>Qxd4 Qb3?! \{ (11.77 → Mate in 6) Checkmate is now unavoidable.</MoveList>
+          <MoveList>Qe6 was best. \} (30... Qe6 31. Re1) 31. Re1?! \{ (Mate in 6 →</MoveList>
+          <MoveList>12.56) Lost forced checkmate sequence. Rxb3 was best. \} (31.</MoveList>
+          <MoveList>Rxb3 e3 32. Rb8+ Kf7 33. Qd5+ Kg6 34. g4 Bd6 35. Qf5+ Kh6 36.</MoveList>
+          <MoveList>Rh8#) 31... Bf6 32. Qxf6 \{ White wins on time. \} 1-0</MoveList>
         </Game>
         <Game>
           <GameID>1022</GameID>
@@ -985,12 +1093,92 @@
           <Black>4</Black>
           <Res>3</Res>
           <Type>1</Type>
+          <MemoLine>https://lichess.org/xoU2s9NZ</MemoLine>
+          <MoveList>[Event \"Rated Rapid game\"]</MoveList>
+          <MoveList>[Site \"https://lichess.org/gEl2EB6z\"]</MoveList>
+          <MoveList>[Date \"2021.12.03\"]</MoveList>
+          <MoveList>[White \"VioletRiddle\"]</MoveList>
+          <MoveList>[Black \"whosaksham\"]</MoveList>
+          <MoveList>[Result \"0-1\"]</MoveList>
+          <MoveList>[UTCDate \"2021.12.03\"]</MoveList>
+          <MoveList>[UTCTime \"14:34:59\"]</MoveList>
+          <MoveList>[WhiteElo \"1412\"]</MoveList>
+          <MoveList>[BlackElo \"1637\"]</MoveList>
+          <MoveList>[WhiteRatingDiff \"-7\"]</MoveList>
+          <MoveList>[BlackRatingDiff \"+8\"]</MoveList>
+          <MoveList>[Variant \"Standard\"]</MoveList>
+          <MoveList>[TimeControl \"600+5\"]</MoveList>
+          <MoveList>[ECO \"D08\"]</MoveList>
+          <MoveList>[Opening \"Queen's Gambit Declined: Albin Countergambit\"]</MoveList>
+          <MoveList>[Termination \"Normal\"]</MoveList>
+          <MoveList>[Annotator \"lichess.org\"]</MoveList>
+          <MoveList></MoveList>
+          <MoveList>1. d4 d5 2. c4 e5?! \{ (0.29 → 0.87) Inaccuracy. c6 was best. \} \{</MoveList>
+          <MoveList>D08 Queen's Gambit Declined: Albin Countergambit \} (2... c6 3.</MoveList>
+          <MoveList>Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. Be2) 3. e3?! \{ (0.87 →</MoveList>
+          <MoveList>0.00) Inaccuracy. dxe5 was best. \} (3. dxe5 Ne7 4. f4 Nbc6 5. Nf3</MoveList>
+          <MoveList>Be6 6. Bd2 Nf5 7. cxd5 Bxd5) 3... Bb4+?! \{ (0.00 → 0.57)</MoveList>
+          <MoveList>Inaccuracy. exd4 was best. \} (3... exd4 4. exd4 Bb4+ 5. Nc3 Nf6 6.</MoveList>
+          <MoveList>Bd3 O-O 7. Nf3 Bg4 8. O-O) 4. Nc3 c6? \{ (0.44 → 1.61) Mistake.</MoveList>
+          <MoveList>exd4 was best. \} (4... exd4 5. Qxd4 Nf6 6. cxd5 Bxc3+ 7. Qxc3 O-</MoveList>
+          <MoveList>O 8. Nf3 Nxd5 9. Qd2) 5. Be2? \{ (1.61 → 0.09) Mistake. dxe5 was</MoveList>
+          <MoveList>best. \} (5. dxe5 Ne7) 5... exd4?! \{ (0.09 → 0.85) Inaccuracy. dxc4</MoveList>
+          <MoveList>was best. \} (5... dxc4 6. Bxc4 exd4 7. exd4 Nf6 8. Qe2+ Qe7 9. a3</MoveList>
+          <MoveList>Ba5 10. Bg5) 6. exd4?! \{ (0.85 → 0.23) Inaccuracy. Qxd4 was</MoveList>
+          <MoveList>best. \} (6. Qxd4 Qf6 7. Nf3 Qxd4 8. Nxd4 Nf6 9. a3 Bxc3+ 10. bxc3</MoveList>
+          <MoveList>O-O) 6... Nf6 7. Nf3 O-O 8. O-O Bg4 9. h3?! \{ (0.48 → -0.42)</MoveList>
+          <MoveList>Inaccuracy. cxd5 was best. \} (9. cxd5 cxd5 10. h3 Bh5 11. Qb3</MoveList>
+          <MoveList>Bxc3 12. Qxb7 Bxb2 13. Qxb2 Nc6 14. Be3 Na5 15. Rac1 Bxf3)</MoveList>
+          <MoveList>9... Be6?! \{ (-0.42 → 0.35) Inaccuracy. Bxf3 was best. \} (9... Bxf3</MoveList>
+          <MoveList>10. Bxf3) 10. Qb3 Qb6?? \{ (0.36 → 3.75) Blunder. Bxc3 was best.</MoveList>
+          <MoveList>\} (10... Bxc3 11. bxc3 Qc7 12. Ne5 Nbd7 13. cxd5 cxd5 14. Bf4</MoveList>
+          <MoveList>Rfc8 15. Rac1 Nb6 16. f3 Nc4 17. Bh2) 11. c5 Qa5 12. Bg5? \{</MoveList>
+          <MoveList>(3.68 → 2.12) Mistake. Nd1 was best. \} (12. Nd1) 12... Bxc3 13.</MoveList>
+          <MoveList>bxc3 Ne4?! \{ (2.37 → 3.61) Inaccuracy. Qc7 was best. \} (13...</MoveList>
+          <MoveList>Qc7) 14. Qxb7 Nd7 15. Qb3?? \{ (3.65 → 0.92) Blunder. Qxc6 was</MoveList>
+          <MoveList>best. \} (15. Qxc6 Nxc3 16. Bd3 Rac8 17. Qa6 Qc7 18. Be7 Nb8</MoveList>
+          <MoveList>19. Qd6 Rfe8 20. Qxc7 Rxc7 21. Bd6 Rb7) 15... Qxc3 16. Qxc3</MoveList>
+          <MoveList>Nxc3 17. Bd3 Ne4 18. Be3 h6?! \{ (1.30 → 1.86) Inaccuracy. Rfb8</MoveList>
+          <MoveList>was best. \} (18... Rfb8 19. Rfb1) 19. Bxe4?? \{ (1.86 → -0.20)</MoveList>
+          <MoveList>Blunder. Ba6 was best. \} (19. Ba6 Rab8) 19... dxe4 20. Nd2 Nf6</MoveList>
+          <MoveList>21. Rab1 Bxa2 22. Rb7?! \{ (-0.61 → -1.27) Inaccuracy. Ra1 was</MoveList>
+          <MoveList>best. \} (22. Ra1 Bd5) 22... Rfb8 23. Rc7?! \{ (-1.68 → -2.56)</MoveList>
+          <MoveList>Inaccuracy. Rxb8+ was best. \} (23. Rxb8+ Rxb8) 23... Bd5 24. f3?</MoveList>
+          <MoveList>\{ (-2.70 → -4.36) Mistake. Rb1 was best. \} (24. Rb1 Rb5) 24...</MoveList>
+          <MoveList>a5?? \{ (-4.36 → -1.31) Blunder. exf3 was best. \} (24... exf3 25.</MoveList>
+          <MoveList>Nxf3 Rb2 26. Rf2 Rb3 27. Bc1 a5 28. Ne5 Ne8 29. Re7 a4 30.</MoveList>
+          <MoveList>Nxf7 Rb1 31. Rf1) 25. fxe4 Nxe4 26. Rf4?? \{ (-1.42 → -7.87)</MoveList>
+          <MoveList>Blunder. Nxe4 was best. \} (26. Nxe4 Rb3) 26... Nxd2 27. Bxd2 a4</MoveList>
+          <MoveList>28. Re7 Rb2 29. Bc3 Rxg2+ 30. Kf1 Rg3 31. Be1 Rxh3 32. Rf2</MoveList>
+          <MoveList>Rf3 33. Rxf3 Bxf3 34. Re3 Bd5 35. Ra3 Bb3 36. Ke2 g5 37. Ke3</MoveList>
+          <MoveList>Bd5 38. Kf2 Kg7 39. Kg3 Kg6 40. Kg4 f5+ 41. Kg3 f4+ 42. Kg4? \{ (-</MoveList>
+          <MoveList>9.75 → Mate in 9) Checkmate is now unavoidable. Kf2 was best. \}</MoveList>
+          <MoveList>(42. Kf2) 42... h5+?! \{ (Mate in 9 → -13.63) Lost forced checkmate</MoveList>
+          <MoveList>sequence. Re8 was best. \} (42... Re8 43. Bd2 h5+ 44. Kh3 Re2</MoveList>
+          <MoveList>45. Bxf4 gxf4 46. Kh4 Bb3 47. Rxb3 axb3 48. Kh3 b2 49. d5) 43.</MoveList>
+          <MoveList>Kh3 f3 44. Kg3 Rf8 45. Rxa4 h4+ 46. Kf2 Kh5 47. Bd2 g4 48.</MoveList>
+          <MoveList>Ra1?! \{ (-16.01 → Mate in 16) Checkmate is now unavoidable.</MoveList>
+          <MoveList>Ra8 was best. \} (48. Ra8 g3+) 48... g3+ 49. Kf1 Kg4?! \{ (Mate in 7</MoveList>
+          <MoveList>→ -19.33) Lost forced checkmate sequence. Bc4+ was best. \}</MoveList>
+          <MoveList>(49... Bc4+ 50. Ke1 f2+ 51. Kd1 f1=Q+ 52. Kc2 Qd3+ 53. Kc1 Rf1</MoveList>
+          <MoveList>+ 54. Be1 Qc3+ 55. Kb1 Rxe1#) 50. Re1?! \{ (-19.33 → Mate in 5)</MoveList>
+          <MoveList>Checkmate is now unavoidable. Be3 was best. \} (50. Be3 h3) 50...</MoveList>
+          <MoveList>g2+?! \{ (Mate in 5 → -26.47) Lost forced checkmate sequence.</MoveList>
+          <MoveList>Bc4+ was best. \} (50... Bc4+ 51. Kg1 f2+ 52. Kg2 h3+ 53. Kh1 f1</MoveList>
+          <MoveList>=Q+ 54. Rxf1 Rxf1#) 51. Kf2 h3 52. Re7?! \{ (-40.89 → Mate in 5)</MoveList>
+          <MoveList>Checkmate is now unavoidable. Bh6 was best. \} (52. Bh6 Rg8)</MoveList>
+          <MoveList>52... Rh8?! \{ (Mate in 5 → -19.12) Lost forced checkmate</MoveList>
+          <MoveList>sequence. g1=Q+ was best. \} (52... g1=Q+ 53. Kxg1 f2+ 54. Kf1</MoveList>
+          <MoveList>Bc4+ 55. Re2 Kf3 56. d5 Bxe2#) 53. Rg7+ Kf5 54. Rg3?! \{ (-16.46</MoveList>
+          <MoveList>→ Mate in 8) Checkmate is now unavoidable. Rg5+ was best. \}</MoveList>
+          <MoveList>(54. Rg5+ Ke4) 54... h2 55. Rg5+ Ke4 56. Rg4+ Kd3 \{ White</MoveList>
+          <MoveList>resigns. \} 0-1</MoveList>
         </Game>
       </Round>
       <Round>
         <ID>1</ID>
         <Name>Round 2</Name>
-        <Date>03-12-2021</Date>
+        <Date>04-12-2021</Date>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
         <ResetScores>0</ResetScores>
@@ -1030,7 +1218,7 @@
       <Round>
         <ID>2</ID>
         <Name>Round 3</Name>
-        <Date>03-12-2021</Date>
+        <Date>05-12-2021</Date>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
         <ResetScores>0</ResetScores>
@@ -1070,7 +1258,7 @@
       <Round>
         <ID>3</ID>
         <Name>Round 4</Name>
-        <Date>03-12-2021</Date>
+        <Date>06-12-2021</Date>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
         <ResetScores>0</ResetScores>
@@ -1110,7 +1298,7 @@
       <Round>
         <ID>4</ID>
         <Name>Round 5</Name>
-        <Date>03-12-2021</Date>
+        <Date>07-12-2021</Date>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
         <ResetScores>0</ResetScores>
@@ -1150,7 +1338,7 @@
       <Round>
         <ID>5</ID>
         <Name>Round 6</Name>
-        <Date>03-12-2021</Date>
+        <Date>08-12-2021</Date>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
         <ResetScores>0</ResetScores>
@@ -1190,7 +1378,7 @@
       <Round>
         <ID>6</ID>
         <Name>Round 7</Name>
-        <Date>03-12-2021</Date>
+        <Date>09-12-2021</Date>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
         <ResetScores>0</ResetScores>
@@ -1226,6 +1414,18 @@
           <Res>0</Res>
           <Type>1</Type>
         </Game>
+      </Round>
+      <Round>
+        <ID>7</ID>
+        <Name>Finals Bracket</Name>
+        <Date>10-12-2021</Date>
+        <Period>0</Period>
+        <Confirmed>1</Confirmed>
+        <ResetScores>0</ResetScores>
+        <Ranking>0</Ranking>
+        <NrAbsences>0</NrAbsences>
+        <NrGames>0</NrGames>
+        <NrByes>0</NrByes>
       </Round>
     </Group>
   </Comp>
