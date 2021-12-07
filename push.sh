@@ -1,3 +1,3 @@
 git add .
 git commit -m "PUSH"
-git push
+git push --force
