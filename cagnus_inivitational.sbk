@@ -5,7 +5,7 @@
     <AppVsn>19.1.2</AppVsn>
     <Version>7.2.0</Version>
     <FileType>Competition file</FileType>
-    <Created>07-12-2021 07:53:39 PM</Created>
+    <Created>07-12-2021 11:15:25 PM</Created>
   </Contents>
   <Comp>
     <Name>Cagnus Invitational</Name>
@@ -1897,8 +1897,35 @@
           <GameID>1036</GameID>
           <White>6</White>
           <Black>1</Black>
-          <Res>0</Res>
+          <Res>3</Res>
           <Type>1</Type>
+          <MemoLine>https://lichess.org/KlBGJ5zG</MemoLine>
+          <MoveList>[Event \"Rated Rapid game\"]</MoveList>
+          <MoveList>[Site \"https://lichess.org/KlBGJ5zG\"]</MoveList>
+          <MoveList>[Date \"2021.12.07\"]</MoveList>
+          <MoveList>[White \"VioletRiddle\"]</MoveList>
+          <MoveList>[Black \"j-archit\"]</MoveList>
+          <MoveList>[Result \"0-1\"]</MoveList>
+          <MoveList>[UTCDate \"2021.12.07\"]</MoveList>
+          <MoveList>[UTCTime \"14:39:28\"]</MoveList>
+          <MoveList>[Variant \"Standard\"]</MoveList>
+          <MoveList>[TimeControl \"600+5\"]</MoveList>
+          <MoveList>[ECO \"D12\"]</MoveList>
+          <MoveList>[Opening \"Slav Defense: Quiet Variation, Schallopp Defense\"]</MoveList>
+          <MoveList>[Termination \"Normal\"]</MoveList>
+          <MoveList>[Annotator \"lichess.org\"]</MoveList>
+          <MoveList></MoveList>
+          <MoveList>1. d4 d5 2. c4 c6 3. e3 Nf6 4. Nf3 Bf5 \{ D12 Slav Defense: Quiet</MoveList>
+          <MoveList>Variation, Schallopp Defense \} 5. Nc3 Nbd7 6. Be2 e6 7. O-O</MoveList>
+          <MoveList>dxc4 8. Bxc4 Bd6 9. Re1 Ne4 10. Nxe4 Bxe4 11. b3 b5 12. Bd3</MoveList>
+          <MoveList>Bxd3 13. Qxd3 O-O 14. Bb2 Nf6 15. e4 Be7 16. e5 Nd5 17. Qc2</MoveList>
+          <MoveList>Rc8 18. Qd2 Bb4 19. Qd3 Bxe1 20. Rxe1 Nf4 21. Qe4 Ng6 22.</MoveList>
+          <MoveList>Rc1 c5 23. dxc5 Qe7 24. Ba3 a5 25. b4 a4 26. Nd4 Qe8 27. Qb7</MoveList>
+          <MoveList>Nxe5 28. Qxb5 Qxb5 29. Nxb5 Nd3 30. Rd1 Rfd8 31. Nd6 Ne5 32.</MoveList>
+          <MoveList>h3 Rc6 33. b5 Rc7 34. c6 Nc4 35. Bb4 a3 36. Rc1 Nxd6 37. Bxa3</MoveList>
+          <MoveList>Nxb5 38. Bb4 Rdc8 39. a4 Rxc6 40. Rxc6 Rxc6 41. axb5 Rb6 42.</MoveList>
+          <MoveList>Kf1 Rxb5 43. Bd2 h5 44. Ke2 g6 45. Kf3 Kg7 46. Bc3+ f6 47. Kg3</MoveList>
+          <MoveList>Rb3 \{ White resigns. \} 0-1</MoveList>
         </Game>
       </Round>
       <Round>
