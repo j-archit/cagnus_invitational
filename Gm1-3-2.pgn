@@ -1,0 +1,24 @@
+[Event "Cagnus Invitational"]
+[Site ""]
+[Date "2021.12.05"]
+[Round "3"]
+[White "Shubh"]
+[Black "Archit"]
+[Result "1-0"]
+[WhiteElo "2000"]
+[BlackElo "1857"]
+
+{[%SevillaID "1027"]}
+[Event "Rated Rapid game"] [Site "https://lichess.org/MSfVRsqo"] [Date
+"2021.12.05"] [White "Shubh-Malhotra"] [Black "j-archit"] [Result "1-0"]
+[UTCDate "2021.12.05"] [UTCTime "16:56:19"] [Variant "Standard"] [TimeControl
+"600+5"] [ECO "D06"] [Opening "Queen's Gambit Declined: Marshall Defense"]
+[Termination "Normal"] [Annotator "lichess.org"]  1. d4 d5 2. c4 Nf6 { D06
+Queen's Gambit Declined: Marshall Defense } 3. cxd5 Nxd5 4. e4 Nf6 5. Nc3 e5 6.
+d5 Bb4 7. Qa4+ c6 8. Qxb4 cxd5 9. Bb5+ Nbd7 10. Nxd5 Nxd5 11. exd5 a6 12. Bxd7+
+Qxd7 13. Qc5 b6 14. Qc6 O-O 15. Qxa8 Bb7 16. Qa7 Qc7 17. Be3 Rc8 18. Rc1 Qd7 19.
+Rxc8+ Qxc8 20. Qxb6 Bxd5 21. Nf3 h6 22. O-O Bxf3 23. gxf3 Qf5 24. Qc6 Qg6+ 25.
+Qxg6 { Black resigns. } 1-0 
+1-0
+
+
