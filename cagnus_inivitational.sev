@@ -5,7 +5,7 @@
     <AppVsn>19.1.2</AppVsn>
     <Version>7.2.0</Version>
     <FileType>Competition file</FileType>
-    <Created>08-12-2021 12:08:37 AM</Created>
+    <Created>09-12-2021 12:18:45 AM</Created>
   </Contents>
   <Comp>
     <Name>Cagnus Invitational</Name>
@@ -687,7 +687,7 @@
       <NrMcMahonRules>0</NrMcMahonRules>
       <NrRounds>8</NrRounds>
       <ActPlayer>1</ActPlayer>
-      <ActRound>4</ActRound>
+      <ActRound>5</ActRound>
       <Player>
         <ID>0</ID>
         <PlayerID></PlayerID>
@@ -1985,29 +1985,202 @@
           <GameID>1039</GameID>
           <White>4</White>
           <Black>2</Black>
-          <Res>0</Res>
+          <Res>3</Res>
           <Type>1</Type>
+          <MemoLine>https://lichess.org/LVbXUsbO/</MemoLine>
+          <MoveList>[Event \"Rated Rapid game\"]</MoveList>
+          <MoveList>[Site \"https://lichess.org/LVbXUsbO\"]</MoveList>
+          <MoveList>[Date \"2021.12.08\"]</MoveList>
+          <MoveList>[White \"whosaksham\"]</MoveList>
+          <MoveList>[Black \"angad24\"]</MoveList>
+          <MoveList>[Result \"0-1\"]</MoveList>
+          <MoveList>[UTCDate \"2021.12.08\"]</MoveList>
+          <MoveList>[UTCTime \"18:26:16\"]</MoveList>
+          <MoveList>[Variant \"Standard\"]</MoveList>
+          <MoveList>[TimeControl \"600+5\"]</MoveList>
+          <MoveList>[ECO \"B43\"]</MoveList>
+          <MoveList>[Opening \"Sicilian Defense: Kan Variation, Wing Attack\"]</MoveList>
+          <MoveList>[Termination \"Normal\"]</MoveList>
+          <MoveList>[Annotator \"lichess.org\"]</MoveList>
+          <MoveList></MoveList>
+          <MoveList>1. e4 c5 2. Nf3 e6?! \{ (0.00 → 0.54) Inaccuracy. d6 was best. \} (2...</MoveList>
+          <MoveList>d6 3. c3 Nf6 4. h3 Nc6 5. Bd3 e5 6. O-O Be7 7. Bc2) 3. d4 cxd4 4.</MoveList>
+          <MoveList>Nxd4 a6 5. Nc3 b5 \{ B43 Sicilian Defense: Kan Variation, Wing</MoveList>
+          <MoveList>Attack \} 6. a3 Bb7 7. Bd3 g6 8. O-O Bg7 9. Nf3 Qc7 10. Bd2 Nf6</MoveList>
+          <MoveList>11. e5?! \{ (-0.08 → -0.93) Inaccuracy. Re1 was best. \} (11. Re1</MoveList>
+          <MoveList>Nc6) 11... Ng4 12. Re1 Nc6 13. h3?! \{ (-0.92 → -1.81) Inaccuracy.</MoveList>
+          <MoveList>Bxb5 was best. \} (13. Bxb5 Ncxe5 14. Nxe5 Nxe5 15. Ba4 O-O 16.</MoveList>
+          <MoveList>Bf4 Rad8 17. Ne4 d6 18. Bg5 Bxe4 19. Rxe4 Nc4) 13... Ngxe5 14.</MoveList>
+          <MoveList>Nxe5 Nxe5 15. Be3?! \{ (-1.89 → -2.62) Inaccuracy. Bf4 was best. \}</MoveList>
+          <MoveList>(15. Bf4 O-O 16. Bf1 d6 17. Ne4 Bd5 18. a4 Qc6 19. Nc3 Bc4 20.</MoveList>
+          <MoveList>axb5 axb5 21. Rxa8 Rxa8) 15... O-O 16. Rb1 Nxd3?! \{ (-3.63 → -</MoveList>
+          <MoveList>2.86) Inaccuracy. Qc6 was best. \} (16... Qc6 17. f3 Rac8 18. Bf4</MoveList>
+          <MoveList>Nc4 19. Bxc4 Qxc4 20. Bd6 Rfd8 21. Kh1 Bc6 22. Re2 Re8 23.</MoveList>
+          <MoveList>Qd2) 17. Qxd3?! \{ (-2.86 → -3.84) Inaccuracy. cxd3 was best. \}</MoveList>
+          <MoveList>(17. cxd3 Rfc8) 17... Qc6 18. f3 Rad8 19. Bd4 d5 20. Bxg7 Kxg7</MoveList>
+          <MoveList>21. Ne2?! \{ (-1.87 → -2.71) Inaccuracy. Qd4+ was best. \} (21. Qd4</MoveList>
+          <MoveList>+) 21... d4 22. Nxd4?? \{ (-2.50 → -6.28) Blunder. b4 was best. \}</MoveList>
+          <MoveList>(22. b4) 22... Qc5 23. c3 e5 24. b4 Qd5 25. Nf5+ gxf5 26. Qxf5 f6</MoveList>
+          <MoveList>27. Re4 Qd3 28. Rg4+ Kh8 29. Re1?! \{ (-6.49 → -14.38)</MoveList>
+          <MoveList>Inaccuracy. Qxd3 was best. \} (29. Qxd3 Rxd3 30. c4 Bc8 31. Rh4</MoveList>
+          <MoveList>Rg8 32. Rc1 Rd2 33. Rg4 Bxg4 34. hxg4 h5 35. cxb5 axb5) 29...</MoveList>
+          <MoveList>Qxf5 \{ White resigns. \} 0-1</MoveList>
         </Game>
         <Game>
           <GameID>1041</GameID>
           <White>7</White>
           <Black>5</Black>
-          <Res>0</Res>
+          <Res>3</Res>
           <Type>1</Type>
+          <MemoLine>https://lichess.org/oRwabaoK</MemoLine>
+          <MoveList>[Event \"Casual Rapid game\"]</MoveList>
+          <MoveList>[Site \"https://lichess.org/oRwabaoK\"]</MoveList>
+          <MoveList>[Date \"2021.12.08\"]</MoveList>
+          <MoveList>[White \"ujjawalaggarwal955\"]</MoveList>
+          <MoveList>[Black \"Aayush17\"]</MoveList>
+          <MoveList>[Result \"0-1\"]</MoveList>
+          <MoveList>[UTCDate \"2021.12.08\"]</MoveList>
+          <MoveList>[UTCTime \"17:00:04\"]</MoveList>
+          <MoveList>[Variant \"Standard\"]</MoveList>
+          <MoveList>[TimeControl \"600+5\"]</MoveList>
+          <MoveList>[ECO \"B10\"]</MoveList>
+          <MoveList>[Opening \"Caro-Kann Defense: Goldman Variation\"]</MoveList>
+          <MoveList>[Termination \"Normal\"]</MoveList>
+          <MoveList>[Annotator \"lichess.org\"]</MoveList>
+          <MoveList></MoveList>
+          <MoveList>1. e4 c6 2. Qf3 d5 3. Nc3 \{ B10 Caro-Kann Defense: Goldman</MoveList>
+          <MoveList>Variation \} d4 4. Na4? \{ (0.09 → -1.37) Mistake. Bc4 was best. \}</MoveList>
+          <MoveList>(4. Bc4 e6 5. Nce2 b5 6. Bb3 Na6 7. d3 Nc5 8. Qg3 a5) 4... e5 5.</MoveList>
+          <MoveList>c3?? \{ (-1.51 → -3.86) Blunder. b3 was best. \} (5. b3 Bd6 6. Nb2</MoveList>
+          <MoveList>Ne7 7. Qe2 O-O 8. Nf3 Ng6 9. g3 f5 10. exf5 Bxf5 11. Bg2 Bg4)</MoveList>
+          <MoveList>5... b5 6. b3?! \{ (-3.98 → -6.11) Inaccuracy. cxd4 was best. \} (6.</MoveList>
+          <MoveList>cxd4 exd4 7. Nc3 dxc3 8. bxc3 Nf6 9. d4 Be7 10. Bd3 O-O 11. e5</MoveList>
+          <MoveList>Nd5 12. Ne2 Be6) 6... bxa4 7. bxa4 Nf6 8. Qd3 Bc5 9. Ne2 O-O</MoveList>
+          <MoveList>10. cxd4 Ba6 11. Qe3 exd4 12. Qg3 d3 13. Nc3 Re8 14. e5 Bd4</MoveList>
+          <MoveList>15. Qxd3 Bxd3 16. Bxd3 Rxe5+ 17. Kf1 Bxc3 18. dxc3?! \{ (-21.19</MoveList>
+          <MoveList>→ Mate in 2) Checkmate is now unavoidable. Be2 was best. \} (18.</MoveList>
+          <MoveList>Be2 Bxa1) 18... Qxd3+ 19. Kg1 Re1# \{ Black wins by checkmate.</MoveList>
+          <MoveList>\} 0-1</MoveList>
         </Game>
         <Game>
           <GameID>1042</GameID>
           <White>6</White>
           <Black>0</Black>
-          <Res>0</Res>
+          <Res>3</Res>
           <Type>1</Type>
+          <MemoLine>https://lichess.org/QWlYW4q7</MemoLine>
+          <MoveList>[Event \"Rated Rapid game\"]</MoveList>
+          <MoveList>[Site \"https://lichess.org/QWlYW4q7\"]</MoveList>
+          <MoveList>[Date \"2021.12.08\"]</MoveList>
+          <MoveList>[White \"VioletRiddle\"]</MoveList>
+          <MoveList>[Black \"Shubh-Malhotra\"]</MoveList>
+          <MoveList>[Result \"0-1\"]</MoveList>
+          <MoveList>[UTCDate \"2021.12.08\"]</MoveList>
+          <MoveList>[UTCTime \"17:47:10\"]</MoveList>
+          <MoveList>[Variant \"Standard\"]</MoveList>
+          <MoveList>[TimeControl \"600+5\"]</MoveList>
+          <MoveList>[ECO \"E14\"]</MoveList>
+          <MoveList>[Opening \"Queen's Indian Defense: Spassky System\"]</MoveList>
+          <MoveList>[Termination \"Normal\"]</MoveList>
+          <MoveList>[Annotator \"lichess.org\"]</MoveList>
+          <MoveList></MoveList>
+          <MoveList>1. d4 Nf6 2. c4 e6 3. e3 b6 4. Nf3 \{ E14 Queen's Indian Defense:</MoveList>
+          <MoveList>Spassky System \} Bb7 5. Nc3 d5 6. Be2 Nbd7 7. O-O Bd6 8. cxd5</MoveList>
+          <MoveList>exd5 9. Qb3 c5?! \{ (-0.55 → 0.39) Inaccuracy. a6 was best. \} (9...</MoveList>
+          <MoveList>a6) 10. dxc5 bxc5?? \{ (0.49 → 8.06) Blunder. Nxc5 was best. \}</MoveList>
+          <MoveList>(10... Nxc5 11. Qd1) 11. Qxb7 O-O 12. Nxd5 Nxd5 13. Qxd5 Nf6</MoveList>
+          <MoveList>14. Qd1 Rb8 15. b3 Re8 16. Bb2 Qe7 17. Bc4 Rb4 18. Ng5 Rf8</MoveList>
+          <MoveList>19. Re1 h6 20. Nh3 Rfb8 21. Bxf6 Qxf6 22. Qd5 Rd8 23. Qf3 Qxf3</MoveList>
+          <MoveList>24. gxf3 Be7 25. Rad1 Rbb8 26. Nf4 g5 27. Nd5 Bf8 28. Nf6+ Kh8</MoveList>
+          <MoveList>29. Kg2 Kg7 30. Ne4 f5 31. Nxc5?? \{ (8.39 → 2.84) Blunder. Ng3</MoveList>
+          <MoveList>was best. \} (31. Ng3) 31... Bxc5 32. Rd5 Rxd5 33. Bxd5 Rd8 34.</MoveList>
+          <MoveList>Bc4? \{ (2.34 → 0.84) Mistake. e4 was best. \} (34. e4) 34... Rd2 35.</MoveList>
+          <MoveList>a4 a5 36. Kg3 Kf6 37. f4 gxf4+ 38. exf4?? \{ (0.00 → -7.69) Blunder.</MoveList>
+          <MoveList>Kxf4 was best. \} (38. Kxf4 Rxf2+ 39. Kg3 Rd2 40. h3 Rc2 41. Kf3</MoveList>
+          <MoveList>Rc3 42. Kf4 Bd6+ 43. Kf3) 38... Bxf2+ 39. Kf3 Bxe1 40. Ke3 Rxh2</MoveList>
+          <MoveList>41. Kf3 Rh1 42. Ke2 Bb4 43. Ke3 h5 44. Kf2 Bc5+ 45. Kg2 Rg1+</MoveList>
+          <MoveList>46. Kh2 Rg7 47. Kh3 Rg4 48. Kh2 Rxf4 49. Kg3?! \{ (-12.70 →</MoveList>
+          <MoveList>Mate in 20) Checkmate is now unavoidable. Bb5 was best. \} (49.</MoveList>
+          <MoveList>Bb5 Rf2+) 49... Kg5?! \{ (Mate in 20 → -60.05) Lost forced</MoveList>
+          <MoveList>checkmate sequence. Rxc4 was best. \} (49... Rxc4) 50. Kh3?! \{ (-</MoveList>
+          <MoveList>60.05 → Mate in 11) Checkmate is now unavoidable. Kg2 was</MoveList>
+          <MoveList>best. \} (50. Kg2 Rf2+) 50... h4 51. Kh2 Bf2?! \{ (Mate in 9 → -19.73)</MoveList>
+          <MoveList>Lost forced checkmate sequence. Rf2+ was best. \} (51... Rf2+ 52.</MoveList>
+          <MoveList>Kg1 Rb2+ 53. Kf1 Bb4 54. Be2 Kf4 55. Bd1 Kg3 56. Bh5 Rf2+ 57.</MoveList>
+          <MoveList>Kg1 h3 58. Bf3) 52. Kg2 Bg3 53. Kh3?! \{ (-18.50 → Mate in 2)</MoveList>
+          <MoveList>Checkmate is now unavoidable. Kg1 was best. \} (53. Kg1 Rxc4)</MoveList>
+          <MoveList>53... Rf3?! \{ (Mate in 2 → -16.15) Lost forced checkmate</MoveList>
+          <MoveList>sequence. Rf2 was best. \} (53... Rf2 54. b4 Rh2#) 54. Kg2 Re3 55.</MoveList>
+          <MoveList>Kh3 f4 56. Kg2 Kg4 57. Kf1 h3 58. Be6+ Rxe6 \{ White resigns. \} 0-</MoveList>
+          <MoveList>1</MoveList>
         </Game>
         <Game>
           <GameID>1040</GameID>
           <White>1</White>
           <Black>3</Black>
-          <Res>0</Res>
+          <Res>1</Res>
           <Type>1</Type>
+          <MemoLine>https://lichess.org/WMdz42YEJ5TR</MemoLine>
+          <MoveList>[Event \"Rated Rapid game\"]</MoveList>
+          <MoveList>[Site \"https://lichess.org/WMdz42YE\"]</MoveList>
+          <MoveList>[Date \"2021.12.08\"]</MoveList>
+          <MoveList>[White \"j-archit\"]</MoveList>
+          <MoveList>[Black \"vineetgupta0\"]</MoveList>
+          <MoveList>[Result \"1-0\"]</MoveList>
+          <MoveList>[UTCDate \"2021.12.08\"]</MoveList>
+          <MoveList>[UTCTime \"17:04:59\"]</MoveList>
+          <MoveList>[Variant \"Standard\"]</MoveList>
+          <MoveList>[TimeControl \"600+5\"]</MoveList>
+          <MoveList>[ECO \"A22\"]</MoveList>
+          <MoveList>[Opening \"English Opening: King's English Variation, Two Knights</MoveList>
+          <MoveList>Variation\"]</MoveList>
+          <MoveList>[Termination \"Normal\"]</MoveList>
+          <MoveList>[Annotator \"lichess.org\"]</MoveList>
+          <MoveList></MoveList>
+          <MoveList>1. c4 e5 2. Nc3 Nf6 \{ A22 English Opening: King's English</MoveList>
+          <MoveList>Variation, Two Knights Variation \} 3. e3 Be7 4. Qc2 Nc6 5. Ne4?! \{</MoveList>
+          <MoveList>(-0.04 → -0.61) Inaccuracy. a3 was best. \} (5. a3 d5 6. cxd5 Nxd5</MoveList>
+          <MoveList>7. Bd3 Nxc3 8. dxc3 Qd6 9. Nf3 Bg4) 5... d6 6. d4? \{ (-0.49 → -</MoveList>
+          <MoveList>2.08) Mistake. Nxf6+ was best. \} (6. Nxf6+ Bxf6) 6... exd4 7.</MoveList>
+          <MoveList>exd4?! \{ (-2.18 → -3.22) Inaccuracy. Nf3 was best. \} (7. Nf3 Nxe4)</MoveList>
+          <MoveList>7... Nxd4 8. Qd3 c5 9. Nf3? \{ (-3.93 → -7.00) Mistake. Ng3 was</MoveList>
+          <MoveList>best. \} (9. Ng3 d5) 9... Nxe4?! \{ (-7.00 → -4.83) Inaccuracy. Bf5</MoveList>
+          <MoveList>was best. \} (9... Bf5 10. Nxf6+ gxf6 11. Nxd4 Bxd3 12. Bxd3 cxd4</MoveList>
+          <MoveList>13. O-O O-O 14. Re1 Re8 15. Re4 f5 16. Re2) 10. Nxd4 Nf6?? \{ (-</MoveList>
+          <MoveList>4.55 → -1.28) Blunder. Qa5+ was best. \} (10... Qa5+ 11. Ke2) 11.</MoveList>
+          <MoveList>Nf3?! \{ (-1.28 → -2.18) Inaccuracy. Nf5 was best. \} (11. Nf5 O-O)</MoveList>
+          <MoveList>11... h6 12. Bd2 Qb6 13. Bc3 Be6 14. Be2 O-O 15. O-O Rad8 16.</MoveList>
+          <MoveList>Rfd1?! \{ (-2.59 → -3.34) Inaccuracy. Qc2 was best. \} (16. Qc2 d5</MoveList>
+          <MoveList>17. Be5 dxc4 18. Bxc4 Nd7 19. Bg3 Bxc4 20. Qxc4 Rfe8 21. Rfe1</MoveList>
+          <MoveList>Qc6 22. Qc2 Bf6) 16... Nh7? \{ (-3.34 → -1.64) Mistake. d5 was</MoveList>
+          <MoveList>best. \} (16... d5 17. Re1 Rfe8 18. h3 d4 19. Bd2 Bd6 20. Qa3 Qc7</MoveList>
+          <MoveList>21. Bd3 b6 22. b4 Bc8 23. bxc5) 17. Qe3?! \{ (-1.64 → -2.60)</MoveList>
+          <MoveList>Inaccuracy. Nd2 was best. \} (17. Nd2 d5) 17... Rfe8 18. Bd3</MoveList>
+          <MoveList>Ng5?? \{ (-1.86 → 0.49) Blunder. Nf6 was best. \} (18... Nf6 19. a4</MoveList>
+          <MoveList>d5 20. a5 Qc7 21. cxd5 Bxd5 22. Bb5 Ng4 23. Qe2 Bxf3 24. Qxf3</MoveList>
+          <MoveList>Qxh2+ 25. Kf1) 19. Nxg5 Bxg5 20. Qg3 Kf8 21. Rab1? \{ (0.38 → -</MoveList>
+          <MoveList>0.80) Mistake. Bc2 was best. \} (21. Bc2 d5) 21... f5?? \{ (-0.80 →</MoveList>
+          <MoveList>3.76) Blunder. d5 was best. \} (21... d5 22. h4 Bf6 23. Bxf6 gxf6 24.</MoveList>
+          <MoveList>b3 Qd6 25. Qe3 Kg7 26. Qf3 b6 27. cxd5 Qxd5 28. Qg3+) 22. h4</MoveList>
+          <MoveList>Bf6 23. Bxf6 gxf6 24. Qg6 Re7?? \{ (3.52 → 8.48) Blunder. Qc7</MoveList>
+          <MoveList>was best. \} (24... Qc7) 25. Qxh6+ Ke8 26. Bc2 Qa6 27. Qxf6 Bxc4</MoveList>
+          <MoveList>28. Qxf5 Qxa2 29. Qh5+ Kd7 30. Bf5+?? \{ (8.51 → 3.57) Blunder.</MoveList>
+          <MoveList>Qxc5 was best. \} (30. Qxc5 Re1+ 31. Kh2 Re6 32. Bf5 Ke7 33.</MoveList>
+          <MoveList>Qc7+ Rd7 34. Qc8 Qa5 35. Bxe6 Bxe6 36. Kg1 Rc7) 30... Kc7 31.</MoveList>
+          <MoveList>Qg4?? \{ (4.06 → -0.72) Blunder. Qg5 was best. \} (31. Qg5) 31...</MoveList>
+          <MoveList>Rg8?? \{ (-0.72 → 2.21) Blunder. Be2 was best. \} (31... Be2 32.</MoveList>
+          <MoveList>Qg5 Qf7 33. Bg6 Qg7 34. Rd5 Bc4 35. Rd2 Re5 36. Qg3 Rg8 37.</MoveList>
+          <MoveList>h5 Bf7 38. f4) 32. Qf4 Qa6?! \{ (2.33 → 3.43) Inaccuracy. Bd5 was</MoveList>
+          <MoveList>best. \} (32... Bd5 33. g4 Re5 34. Kh2 Rf8 35. Re1 Bc6 36. Rxe5</MoveList>
+          <MoveList>Qxb1 37. Re7+ Kb6 38. h5 Qxb2 39. Kg3) 33. Bh3? \{ (3.43 →</MoveList>
+          <MoveList>1.70) Mistake. g4 was best. \} (33. g4 Bb3) 33... Reg7?? \{ (1.70 →</MoveList>
+          <MoveList>4.11) Blunder. Rf7 was best. \} (33... Rf7 34. Qd2) 34. Qf6?? \{ (4.11</MoveList>
+          <MoveList>→ 1.58) Blunder. Rbc1 was best. \} (34. Rbc1 Qc6) 34... Qc6 35.</MoveList>
+          <MoveList>f3?? \{ (1.76 → -2.76) Blunder. g3 was best. \} (35. g3) 35... a6?? \{</MoveList>
+          <MoveList>(-2.76 → 1.25) Blunder. Rf7 was best. \} (35... Rf7) 36. Qf5?? \{</MoveList>
+          <MoveList>(1.25 → -2.58) Blunder. Re1 was best. \} (36. Re1) 36... Bd5?? \{ (-</MoveList>
+          <MoveList>2.58 → 7.84) Blunder. Rf7 was best. \} (36... Rf7 37. Qe4) 37. Rxd5</MoveList>
+          <MoveList>Qxd5 38. Qxd5 \{ Black resigns. \} 1-0</MoveList>
         </Game>
       </Round>
       <Round>

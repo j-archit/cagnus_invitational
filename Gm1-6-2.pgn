@@ -1,0 +1,29 @@
+[Event "Cagnus Invitational"]
+[Site ""]
+[Date "2021.12.08"]
+[Round "6"]
+[White "Ujjawal"]
+[Black "Aayush"]
+[Result "0-1"]
+[WhiteElo "1300"]
+[BlackElo "1626"]
+
+{[%SevillaID "1041"]}
+[Event "Casual Rapid game"] [Site "https://lichess.org/oRwabaoK"] [Date
+"2021.12.08"] [White "ujjawalaggarwal955"] [Black "Aayush17"] [Result "0-1"]
+[UTCDate "2021.12.08"] [UTCTime "17:00:04"] [Variant "Standard"] [TimeControl
+"600+5"] [ECO "B10"] [Opening "Caro-Kann Defense: Goldman Variation"]
+[Termination "Normal"] [Annotator "lichess.org"]  1. e4 c6 2. Qf3 d5 3. Nc3 {
+B10 Caro-Kann Defense: Goldman Variation } d4 4. Na4? { (0.09 ? -1.37) Mistake.
+Bc4 was best. } (4. Bc4 e6 5. Nce2 b5 6. Bb3 Na6 7. d3 Nc5 8. Qg3 a5) 4... e5 5.
+c3?? { (-1.51 ? -3.86) Blunder. b3 was best. } (5. b3 Bd6 6. Nb2 Ne7 7. Qe2 O-O
+8. Nf3 Ng6 9. g3 f5 10. exf5 Bxf5 11. Bg2 Bg4) 5... b5 6. b3?! { (-3.98 ? -6.11)
+Inaccuracy. cxd4 was best. } (6. cxd4 exd4 7. Nc3 dxc3 8. bxc3 Nf6 9. d4 Be7 10.
+Bd3 O-O 11. e5 Nd5 12. Ne2 Be6) 6... bxa4 7. bxa4 Nf6 8. Qd3 Bc5 9. Ne2 O-O 10.
+cxd4 Ba6 11. Qe3 exd4 12. Qg3 d3 13. Nc3 Re8 14. e5 Bd4 15. Qxd3 Bxd3 16. Bxd3
+Rxe5+ 17. Kf1 Bxc3 18. dxc3?! { (-21.19 ? Mate in 2) Checkmate is now
+unavoidable. Be2 was best. } (18. Be2 Bxa1) 18... Qxd3+ 19. Kg1 Re1# { Black
+wins by checkmate. } 0-1 
+0-1
+
+
