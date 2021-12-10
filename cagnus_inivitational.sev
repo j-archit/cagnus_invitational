@@ -5,7 +5,7 @@
     <AppVsn>19.1.2</AppVsn>
     <Version>7.2.0</Version>
     <FileType>Competition file</FileType>
-    <Created>09-12-2021 12:18:45 AM</Created>
+    <Created>10-12-2021 11:49:10 PM</Created>
   </Contents>
   <Comp>
     <Name>Cagnus Invitational</Name>
@@ -687,7 +687,7 @@
       <NrMcMahonRules>0</NrMcMahonRules>
       <NrRounds>8</NrRounds>
       <ActPlayer>1</ActPlayer>
-      <ActRound>5</ActRound>
+      <ActRound>6</ActRound>
       <Player>
         <ID>0</ID>
         <PlayerID></PlayerID>
@@ -2198,28 +2198,110 @@
           <GameID>1044</GameID>
           <White>7</White>
           <Black>4</Black>
-          <Res>0</Res>
+          <Res>9</Res>
           <Type>1</Type>
         </Game>
         <Game>
           <GameID>1045</GameID>
           <White>6</White>
           <Black>2</Black>
-          <Res>0</Res>
+          <Res>9</Res>
           <Type>1</Type>
         </Game>
         <Game>
           <GameID>1043</GameID>
           <White>1</White>
           <Black>5</Black>
-          <Res>0</Res>
+          <Res>1</Res>
           <Type>1</Type>
+          <MemoLine>https://lichess.org/fc2fXdWw</MemoLine>
+          <MoveList>[Event \"Rated Rapid game\"]</MoveList>
+          <MoveList>[Site \"https://lichess.org/fc2fXdWw\"]</MoveList>
+          <MoveList>[Date \"2021.12.10\"]</MoveList>
+          <MoveList>[White \"j-archit\"]</MoveList>
+          <MoveList>[Black \"Aayush17\"]</MoveList>
+          <MoveList>[Result \"1-0\"]</MoveList>
+          <MoveList>[UTCDate \"2021.12.10\"]</MoveList>
+          <MoveList>[UTCTime \"16:58:33\"]</MoveList>
+          <MoveList>[Variant \"Standard\"]</MoveList>
+          <MoveList>[TimeControl \"600+5\"]</MoveList>
+          <MoveList>[ECO \"A22\"]</MoveList>
+          <MoveList>[Opening \"English Opening: King's English Variation, Two Knights</MoveList>
+          <MoveList>Variation\"]</MoveList>
+          <MoveList>[Termination \"Normal\"]</MoveList>
+          <MoveList>[Annotator \"lichess.org\"]</MoveList>
+          <MoveList></MoveList>
+          <MoveList>1. c4 e5 2. Nc3 Nf6 \{ A22 English Opening: King's English</MoveList>
+          <MoveList>Variation, Two Knights Variation \} 3. d3 Bc5 4. Nf3 Nc6 5. a3 O-O</MoveList>
+          <MoveList>6. e3 Re8 7. b4 Bf8 8. Be2 d6 9. O-O b6?! \{ (0.13 → 0.94)</MoveList>
+          <MoveList>Inaccuracy. Ne7 was best. \} (9... Ne7) 10. Bb2 Bb7 11. Nd5?! \{</MoveList>
+          <MoveList>(0.87 → 0.26) Inaccuracy. d4 was best. \} (11. d4) 11... Nxd5 12.</MoveList>
+          <MoveList>cxd5 Ne7 13. e4 f5?? \{ (0.00 → 2.08) Blunder. c6 was best. \} (13...</MoveList>
+          <MoveList>c6) 14. Ng5?? \{ (2.08 → 0.00) Blunder. Rc1 was best. \} (14. Rc1</MoveList>
+          <MoveList>Ng6 15. g3 Be7 16. exf5 Nh8 17. Qb3 Nf7 18. Rc2 Nh6 19. Nxe5</MoveList>
+          <MoveList>dxe5 20. d6+ Kh8) 14... Nxd5 15. exd5?? \{ (0.09 → -2.42) Blunder.</MoveList>
+          <MoveList>Nh3 was best. \} (15. Nh3 Nf6) 15... Qxg5 16. Bc1?! \{ (-2.24 → -</MoveList>
+          <MoveList>3.48) Inaccuracy. Bf3 was best. \} (16. Bf3 Qf6) 16... Qg6? \{ (-3.48</MoveList>
+          <MoveList>→ -1.68) Mistake. Qf6 was best. \} (16... Qf6) 17. Bh5 Qf6 18.</MoveList>
+          <MoveList>Bxe8 Rxe8 19. Qh5 Re7 20. Bg5 Qg6?? \{ (-1.31 → 5.74) Blunder.</MoveList>
+          <MoveList>Qf7 was best. \} (20... Qf7 21. Qxf7+) 21. Qxg6 hxg6 22. Bxe7</MoveList>
+          <MoveList>Bxe7 23. Rac1 Bd8 24. g3? \{ (5.49 → 3.36) Mistake. d4 was best.</MoveList>
+          <MoveList>\} (24. d4 e4) 24... Bxd5? \{ (3.36 → 5.94) Mistake. Kf7 was best. \}</MoveList>
+          <MoveList>(24... Kf7 25. b5 Bxd5 26. f4 Ke6 27. Rfe1 Bb7 28. Kf2 e4 29. h4</MoveList>
+          <MoveList>Kd7 30. dxe4 fxe4 31. Rc4) 25. Rfe1?? \{ (5.94 → 2.63) Blunder.</MoveList>
+          <MoveList>Rxc7 was best. \} (25. Rxc7) 25... Kf7 26. h4?? \{ (2.71 → 0.63)</MoveList>
+          <MoveList>Blunder. b5 was best. \} (26. b5) 26... Kf6?? \{ (0.63 → 2.87)</MoveList>
+          <MoveList>Blunder. c6 was best. \} (26... c6) 27. Kh2?? \{ (2.87 → 0.82)</MoveList>
+          <MoveList>Blunder. b5 was best. \} (27. b5 g5 28. f4 gxh4 29. gxh4 Ke6 30.</MoveList>
+          <MoveList>Re3 Bxh4 31. Rxc7 g5 32. fxg5 Bxg5 33. Rg3 Bf6) 27... b5 28.</MoveList>
+          <MoveList>Kh3?! \{ (1.09 → 0.49) Inaccuracy. Ra1 was best. \} (28. Ra1 c5)</MoveList>
+          <MoveList>28... g5?! \{ (0.49 → 1.49) Inaccuracy. c6 was best. \} (28... c6 29.</MoveList>
+          <MoveList>Re2 Ke6 30. f4 e4 31. g4 a5 32. gxf5+ gxf5 33. h5 axb4 34. axb4</MoveList>
+          <MoveList>Bf6 35. dxe4) 29. hxg5+ Kxg5 30. Re3? \{ (1.47 → 0.25) Mistake.</MoveList>
+          <MoveList>Re2 was best. \} (30. Re2 Bf3) 30... c6 31. Rf1 Bb6 32. f4+ exf4??</MoveList>
+          <MoveList>\{ (-0.03 → 2.62) Blunder. Kf6 was best. \} (32... Kf6 33. Re2 g5 34.</MoveList>
+          <MoveList>fxg5+ Kxg5 35. Rc2 c5 36. bxc5 dxc5 37. Rb2 a6 38. Rc1 Be6 39.</MoveList>
+          <MoveList>Re2) 33. gxf4+ Kf6 34. Re8 c5?! \{ (2.75 → 4.02) Inaccuracy. g5</MoveList>
+          <MoveList>was best. \} (34... g5) 35. bxc5?? \{ (4.02 → 1.91) Blunder. Rfe1</MoveList>
+          <MoveList>was best. \} (35. Rfe1 g5) 35... dxc5?! \{ (1.91 → 3.04) Inaccuracy.</MoveList>
+          <MoveList>Bxc5 was best. \} (35... Bxc5 36. Rb8 a6 37. Kg3 Ke6 38. Rc1</MoveList>
+          <MoveList>Bxa3 39. Ra1 Bb4 40. Kh4 Bc5 41. Rxa6 b4 42. Rb5) 36. Rb1 c4?</MoveList>
+          <MoveList>\{ (2.98 → 5.59) Mistake. g5 was best. \} (36... g5 37. Re5 Bf3 38.</MoveList>
+          <MoveList>Rxb5 gxf4 39. Rexc5 Bxc5 40. Rxc5 a6 41. Ra5 Ke6 42. Kh2 Be2</MoveList>
+          <MoveList>43. d4) 37. dxc4?! \{ (5.59 → 3.92) Inaccuracy. Rxb5 was best. \}</MoveList>
+          <MoveList>(37. Rxb5) 37... Bxc4 38. Kh4? \{ (3.62 → 1.87) Mistake. Rc8 was</MoveList>
+          <MoveList>best. \} (38. Rc8) 38... Bc5 39. Kh3?? \{ (2.15 → 0.42) Blunder. Rc8</MoveList>
+          <MoveList>was best. \} (39. Rc8 Bxa3 40. Ra1 Be7 41. Rc6+ Kf7+ 42. Kg3 Bf6</MoveList>
+          <MoveList>43. Rxa7+ Kg6 44. Rd7 Bf7 45. Rb6 Bc4) 39... Bxa3 40. Ra8 Bc5?</MoveList>
+          <MoveList>\{ (0.00 → 1.04) Mistake. Bd6 was best. \} (40... Bd6 41. Re1 Bxf4</MoveList>
+          <MoveList>42. Rxa7 b4 43. Rb7 Bd2 44. Rb6+ Kg5 45. Rg1+ Kf4 46. Rxg7</MoveList>
+          <MoveList>Bc3 47. Rc7) 41. Rc1? \{ (1.04 → -0.05) Mistake. Rc8 was best. \}</MoveList>
+          <MoveList>(41. Rc8 Bb6) 41... Be3 42. Rxc4? \{ (-0.06 → -1.12) Mistake. Re1</MoveList>
+          <MoveList>was best. \} (42. Re1 Bxf4 43. Rxa7 Bd2 44. Ra6+ Kg5 45. Rg1+</MoveList>
+          <MoveList>Kf4 46. Rxg7 b4 47. Rb6 Bf1+ 48. Kh4 Be1+) 42... bxc4 43. Rc8?!</MoveList>
+          <MoveList>\{ (-0.72 → -1.44) Inaccuracy. Rf8+ was best. \} (43. Rf8+ Ke7) 43...</MoveList>
+          <MoveList>a5? \{ (-1.44 → 0.00) Mistake. Bxf4 was best. \} (43... Bxf4 44. Rxc4</MoveList>
+          <MoveList>g5 45. Kg2 Ke6 46. Rc6+ Kd5 47. Rc8 Bd6 48. Rg8 g4 49. Ra8</MoveList>
+          <MoveList>Bc5 50. Kg3) 44. Rxc4 Bd2 45. Kg3 Kg6 46. Rc6+ Kh5 47. Rc5 g6</MoveList>
+          <MoveList>48. Kf3 a4 49. Rc2 Bb4?? \{ (0.00 → Mate in 1) Checkmate is now</MoveList>
+          <MoveList>unavoidable. Be1 was best. \} (49... Be1 50. Rc1 Bh4 51. Rc8 Bf6</MoveList>
+          <MoveList>52. Ra8 Kh6 53. Rxa4 Be7 54. Ra7 Bb4 55. Rb7 Bc5 56. Ke2) 50.</MoveList>
+          <MoveList>Rc4?? \{ (Mate in 1 → 0.00) Lost forced checkmate sequence.</MoveList>
+          <MoveList>Rh2# was best. \} (50. Rh2#) 50... Bd2 51. Rxa4 Kh4?? \{ (0.00 →</MoveList>
+          <MoveList>Mate in 14) Checkmate is now unavoidable. Kh6 was best. \} (51...</MoveList>
+          <MoveList>Kh6 52. Ra7 Bc3 53. Rb7 Bd4 54. Rc7 Bf6 55. Rd7 Bb2 56. Rd6</MoveList>
+          <MoveList>Kg7 57. Rc6 Ba3 58. Rc7+) 52. Ra2?! \{ (Mate in 14 → 46.19) Lost</MoveList>
+          <MoveList>forced checkmate sequence. Ra7 was best. \} (52. Ra7 Bxf4 53.</MoveList>
+          <MoveList>Kxf4 g5+ 54. Kxf5 g4 55. Rf7 Kg3 56. Kg5 Kh3 57. Kf4 g3 58. Rg7</MoveList>
+          <MoveList>Kg2) 52... Bc1?! \{ (46.19 → Mate in 1) Checkmate is now</MoveList>
+          <MoveList>unavoidable. g5 was best. \} (52... g5) 53. Rh2# \{ White wins by</MoveList>
+          <MoveList>checkmate. \} 1-0</MoveList>
         </Game>
         <Game>
           <GameID>1046</GameID>
           <White>3</White>
           <Black>0</Black>
-          <Res>0</Res>
+          <Res>9</Res>
           <Type>1</Type>
         </Game>
       </Round>

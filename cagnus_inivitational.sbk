@@ -5,7 +5,7 @@
     <AppVsn>19.1.2</AppVsn>
     <Version>7.2.0</Version>
     <FileType>Competition file</FileType>
-    <Created>09-12-2021 12:18:45 AM</Created>
+    <Created>09-12-2021 12:39:30 AM</Created>
   </Contents>
   <Comp>
     <Name>Cagnus Invitational</Name>
@@ -687,7 +687,7 @@
       <NrMcMahonRules>0</NrMcMahonRules>
       <NrRounds>8</NrRounds>
       <ActPlayer>1</ActPlayer>
-      <ActRound>5</ActRound>
+      <ActRound>6</ActRound>
       <Player>
         <ID>0</ID>
         <PlayerID></PlayerID>
