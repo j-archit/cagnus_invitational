@@ -5,7 +5,7 @@
     <AppVsn>19.1.2</AppVsn>
     <Version>7.2.0</Version>
     <FileType>Competition file</FileType>
-    <Created>10-12-2021 11:52:45 PM</Created>
+    <Created>10-12-2021 11:58:22 PM</Created>
   </Contents>
   <Comp>
     <Name>Cagnus Invitational</Name>
@@ -2198,14 +2198,14 @@
           <GameID>1044</GameID>
           <White>7</White>
           <Black>4</Black>
-          <Res>9</Res>
+          <Res>15</Res>
           <Type>1</Type>
         </Game>
         <Game>
           <GameID>1045</GameID>
           <White>6</White>
           <Black>2</Black>
-          <Res>9</Res>
+          <Res>15</Res>
           <Type>1</Type>
         </Game>
         <Game>
@@ -2301,7 +2301,7 @@
           <GameID>1046</GameID>
           <White>3</White>
           <Black>0</Black>
-          <Res>9</Res>
+          <Res>15</Res>
           <Type>1</Type>
         </Game>
       </Round>
