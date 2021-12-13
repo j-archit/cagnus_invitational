@@ -5,7 +5,7 @@
     <AppVsn>19.1.2</AppVsn>
     <Version>7.2.0</Version>
     <FileType>Competition file</FileType>
-    <Created>10-12-2021 11:58:22 PM</Created>
+    <Created>12-12-2021 10:55:19 PM</Created>
   </Contents>
   <Comp>
     <Name>Cagnus Invitational</Name>
@@ -431,7 +431,7 @@
     <RetireRate>0</RetireRate>
     <UserDrawProbFormula>P</UserDrawProbFormula>
     <ShowUnfinishedGamesOnly>0</ShowUnfinishedGamesOnly>
-    <GameIDCount>1046</GameIDCount>
+    <GameIDCount>1070</GameIDCount>
     <Picture>
       <Format>0</Format>
       <Encoding>2</Encoding>
@@ -446,7 +446,7 @@
     <Checks>0~0~2~0~0</Checks>
     <NrRankOrders>1</NrRankOrders>
     <NrRankLayouts>1</NrRankLayouts>
-    <NrPeriods>1</NrPeriods>
+    <NrPeriods>2</NrPeriods>
     <NrCategories>1</NrCategories>
     <NrGameTypes>0</NrGameTypes>
     <NrTitles>9</NrTitles>
@@ -607,6 +607,10 @@
       <ID>0</ID>
       <Name>Period 1</Name>
     </Period>
+    <Period>
+      <ID>1</ID>
+      <Name>Finals</Name>
+    </Period>
     <PeriodIndex>-1</PeriodIndex>
     <Category>
       <ID>0</ID>
@@ -683,11 +687,11 @@
       <Publish>1</Publish>
       <AltSeed>1</AltSeed>
       <NrPlayers>8</NrPlayers>
-      <NrPlayerProhibiteds>0</NrPlayerProhibiteds>
+      <NrPlayerProhibiteds>16</NrPlayerProhibiteds>
       <NrMcMahonRules>0</NrMcMahonRules>
       <NrRounds>8</NrRounds>
       <ActPlayer>1</ActPlayer>
-      <ActRound>6</ActRound>
+      <ActRound>7</ActRound>
       <Player>
         <ID>0</ID>
         <PlayerID></PlayerID>
@@ -904,6 +908,70 @@
         <Corr>0</Corr>
         <AltStart>0</AltStart>
       </Player>
+      <Prohibited>
+        <Player1>5</Player1>
+        <Player2>2</Player2>
+      </Prohibited>
+      <Prohibited>
+        <Player1>5</Player1>
+        <Player2>1</Player2>
+      </Prohibited>
+      <Prohibited>
+        <Player1>5</Player1>
+        <Player2>4</Player2>
+      </Prohibited>
+      <Prohibited>
+        <Player1>5</Player1>
+        <Player2>0</Player2>
+      </Prohibited>
+      <Prohibited>
+        <Player1>6</Player1>
+        <Player2>2</Player2>
+      </Prohibited>
+      <Prohibited>
+        <Player1>6</Player1>
+        <Player2>1</Player2>
+      </Prohibited>
+      <Prohibited>
+        <Player1>6</Player1>
+        <Player2>4</Player2>
+      </Prohibited>
+      <Prohibited>
+        <Player1>6</Player1>
+        <Player2>0</Player2>
+      </Prohibited>
+      <Prohibited>
+        <Player1>7</Player1>
+        <Player2>2</Player2>
+      </Prohibited>
+      <Prohibited>
+        <Player1>7</Player1>
+        <Player2>1</Player2>
+      </Prohibited>
+      <Prohibited>
+        <Player1>7</Player1>
+        <Player2>4</Player2>
+      </Prohibited>
+      <Prohibited>
+        <Player1>7</Player1>
+        <Player2>0</Player2>
+      </Prohibited>
+      <Prohibited>
+        <Player1>3</Player1>
+        <Player2>2</Player2>
+      </Prohibited>
+      <Prohibited>
+        <Player1>3</Player1>
+        <Player2>1</Player2>
+      </Prohibited>
+      <Prohibited>
+        <Player1>3</Player1>
+        <Player2>4</Player2>
+      </Prohibited>
+      <Prohibited>
+        <Player1>3</Player1>
+        <Player2>0</Player2>
+      </Prohibited>
       <Round>
         <ID>0</ID>
         <Name>Round 1</Name>
@@ -2309,7 +2377,7 @@
         <ID>7</ID>
         <Name>Finals Bracket</Name>
         <Date>10-12-2021</Date>
-        <Period>0</Period>
+        <Period>1</Period>
         <Confirmed>1</Confirmed>
         <ResetScores>0</ResetScores>
         <Ranking>0</Ranking>
