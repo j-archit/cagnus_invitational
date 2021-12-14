@@ -5,7 +5,7 @@
     <AppVsn>19.1.2</AppVsn>
     <Version>7.2.0</Version>
     <FileType>Competition file</FileType>
-    <Created>12-12-2021 10:55:19 PM</Created>
+    <Created>13-12-2021 09:49:55 PM</Created>
   </Contents>
   <Comp>
     <Name>Cagnus Invitational</Name>
@@ -691,7 +691,7 @@
       <NrMcMahonRules>0</NrMcMahonRules>
       <NrRounds>8</NrRounds>
       <ActPlayer>1</ActPlayer>
-      <ActRound>7</ActRound>
+      <ActRound>6</ActRound>
       <Player>
         <ID>0</ID>
         <PlayerID></PlayerID>
@@ -2369,8 +2369,76 @@
           <GameID>1046</GameID>
           <White>3</White>
           <Black>0</Black>
-          <Res>15</Res>
+          <Res>2</Res>
           <Type>1</Type>
+          <MemoLine>https://lichess.org/l3nRu7tk</MemoLine>
+          <MoveList>[Event \"Casual Rapid game\"]</MoveList>
+          <MoveList>[Site \"https://lichess.org/l3nRu7tk\"]</MoveList>
+          <MoveList>[Date \"2021.12.13\"]</MoveList>
+          <MoveList>[White \"vineetgupta0\"]</MoveList>
+          <MoveList>[Black \"Shubh-Malhotra\"]</MoveList>
+          <MoveList>[Result \"1/2-1/2\"]</MoveList>
+          <MoveList>[UTCDate \"2021.12.13\"]</MoveList>
+          <MoveList>[UTCTime \"14:24:23\"]</MoveList>
+          <MoveList>[Variant \"Standard\"]</MoveList>
+          <MoveList>[TimeControl \"600+5\"]</MoveList>
+          <MoveList>[ECO \"C50\"]</MoveList>
+          <MoveList>[Opening \"Giuoco Piano\"]</MoveList>
+          <MoveList>[Termination \"Normal\"]</MoveList>
+          <MoveList>[Annotator \"lichess.org\"]</MoveList>
+          <MoveList></MoveList>
+          <MoveList>1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 \{ C50 Giuoco Piano \} 4. a3 a6 5.</MoveList>
+          <MoveList>O-O Nf6 6. d3 O-O 7. h3 b5 8. Ba2 h6 9. Nc3 Bb7?! \{ (0.15 →</MoveList>
+          <MoveList>0.73) Inaccuracy. d6 was best. \} (9... d6 10. Be3 Ba7 11. Nd5 Be6</MoveList>
+          <MoveList>12. Nxf6+ Qxf6 13. Bxe6 Qxe6 14. Nh4 Ne7 15. Qf3 a5 16. Nf5)</MoveList>
+          <MoveList>10. b4 Ba7 11. Ne2 d6 12. Be3 Ne7 13. Ng3 Ng6 14. Qd2 Bxe3 15.</MoveList>
+          <MoveList>Qxe3 Rc8 16. c4 c5 17. Rfc1 Re8 18. Qd2?! \{ (0.61 → 0.00)</MoveList>
+          <MoveList>Inaccuracy. cxb5 was best. \} (18. cxb5 axb5) 18... Re7 19. Nf5</MoveList>
+          <MoveList>Rec7 20. bxc5 Rxc5 21. Qe1?! \{ (0.07 → -0.67) Inaccuracy. cxb5</MoveList>
+          <MoveList>was best. \} (21. cxb5 axb5) 21... Nf4 22. Rd1 Qc7 23. cxb5?! \{ (-</MoveList>
+          <MoveList>0.69 → -1.49) Inaccuracy. Ng3 was best. \} (23. Ng3) 23... axb5 24.</MoveList>
+          <MoveList>Rab1?? \{ (-1.34 → -3.79) Blunder. Qb4 was best. \} (24. Qb4 d5)</MoveList>
+          <MoveList>24... Nxd3 25. Rxd3?! \{ (-4.68 → -6.16) Inaccuracy. Qd2 was best.</MoveList>
+          <MoveList>\} (25. Qd2 Bxe4) 25... Bxe4 26. Rxd6 Bxf5 27. Rbd1 Rc2?? \{ (-6.64</MoveList>
+          <MoveList>→ 1.76) Blunder. Bc2 was best. \} (27... Bc2 28. R1d2) 28. Bb3??</MoveList>
+          <MoveList>\{ (1.76 → -0.62) Blunder. Bb1 was best. \} (28. Bb1 Qb8 29. Ra6</MoveList>
+          <MoveList>Qb7 30. Bxc2 Bxc2 31. Rdd6 Be4 32. Qe3 Bxf3 33. gxf3 Qe7 34.</MoveList>
+          <MoveList>f4 e4) 28... Rc3 29. Ba2?? \{ (-0.34 → -3.99) Blunder. Qxe5 was</MoveList>
+          <MoveList>best. \} (29. Qxe5) 29... Rxa3 30. Qxe5 Be4? \{ (-2.79 → -1.50)</MoveList>
+          <MoveList>Mistake. Bc2 was best. \} (30... Bc2 31. Qb2 Bxd1 32. Qxa3 Bxf3</MoveList>
+          <MoveList>33. gxf3 Qc2 34. Qb3 Qg6+ 35. Kf1 Rc1+ 36. Rd1 Rxd1+ 37.</MoveList>
+          <MoveList>Qxd1) 31. Bb1?! \{ (-1.50 → -2.15) Inaccuracy. Qb2 was best. \} (31.</MoveList>
+          <MoveList>Qb2) 31... Re8? \{ (-2.15 → -0.56) Mistake. Bxf3 was best. \} (31...</MoveList>
+          <MoveList>Bxf3) 32. Rd8?? \{ (-0.56 → -6.94) Blunder. Qxb5 was best. \} (32.</MoveList>
+          <MoveList>Qxb5 Ra5 33. Qb6 Qxb6 34. Rxb6 Bxf3 35. gxf3 Nh5 36. Kh2 g6</MoveList>
+          <MoveList>37. Be4 Re7 38. Rd2 Kg7) 32... Qxe5?? \{ (-6.94 → -1.45) Blunder.</MoveList>
+          <MoveList>Rxd8 was best. \} (32... Rxd8 33. Qxc7 Rxd1+ 34. Kh2 Bxb1 35.</MoveList>
+          <MoveList>Qc8+ Kh7 36. Ne5 Ra2 37. Nxf7 Re2 38. h4 Rd5 39. f3) 33. Nxe5</MoveList>
+          <MoveList>Bxb1 34. Rxe8+ Nxe8 35. Rxb1 Nc7?! \{ (-1.51 → -0.56)</MoveList>
+          <MoveList>Inaccuracy. Nd6 was best. \} (35... Nd6 36. Nc6 Rc3 37. Na7 Rc5</MoveList>
+          <MoveList>38. Rd1 Ne4 39. Rd8+ Kh7 40. f3 Nc3 41. Rb8 Ne2+ 42. Kh2) 36.</MoveList>
+          <MoveList>Kh2?! \{ (-0.56 → -1.49) Inaccuracy. Rc1 was best. \} (36. Rc1 Na6</MoveList>
+          <MoveList>37. Rc8+ Kh7 38. Rc6 f6 39. Nf3 Ra4 40. g4 Nb4 41. Rb6 Nd3 42.</MoveList>
+          <MoveList>Rxb5 Ra1+) 36... Ra7 37. Nc6 Rb7 38. Na5?! \{ (-1.55 → -2.21)</MoveList>
+          <MoveList>Inaccuracy. Kg3 was best. \} (38. Kg3 Kf8) 38... Rb8?! \{ (-2.21 → -</MoveList>
+          <MoveList>1.50) Inaccuracy. Rb6 was best. \} (38... Rb6) 39. Nc6 Rb6 40. Nd4</MoveList>
+          <MoveList>b4 41. Kg3 Kf8 42. Kf3 Ke7?? \{ (-1.87 → 0.00) Blunder. Nd5 was</MoveList>
+          <MoveList>best. \} (42... Nd5 43. Rb2 Ke7 44. Ke4 Kd6 45. Ne2 g6 46. Kd4 h5</MoveList>
+          <MoveList>47. g3 Rc6 48. h4 Rc5 49. Kd3) 43. Ke3?? \{ (0.00 → -2.06)</MoveList>
+          <MoveList>Blunder. Rxb4 was best. \} (43. Rxb4 Rxb4 44. Nc6+ Kf6 45. Nxb4</MoveList>
+          <MoveList>Kf5 46. Ke3 h5 47. Nc6 Nd5+ 48. Kf3 Kg5 49. Nd8 f5) 43... Kd6 44.</MoveList>
+          <MoveList>Kd3?! \{ (-1.77 → -3.00) Inaccuracy. Nf5+ was best. \} (44. Nf5+)</MoveList>
+          <MoveList>44... Nd5? \{ (-3.00 → -1.70) Mistake. Kd5 was best. \} (44... Kd5</MoveList>
+          <MoveList>45. Rc1 Ne6 46. Nxe6 Rxe6 47. Ra1 Rf6 48. f3 Kc5 49. Ra7 g6 50.</MoveList>
+          <MoveList>Kc2 Kc4 51. Re7) 45. Kc4 g6?! \{ (-1.47 → -0.86) Inaccuracy. Rb7</MoveList>
+          <MoveList>was best. \} (45... Rb7 46. Kb3) 46. Nb5+?? \{ (-0.86 → -6.08)</MoveList>
+          <MoveList>Blunder. Rb2 was best. \} (46. Rb2 h5) 46... Kc6?? \{ (-6.08 → 0.00)</MoveList>
+          <MoveList>Blunder. Rxb5 was best. \} (46... Rxb5) 47. Nd4+?! \{ (0.00 → -0.72)</MoveList>
+          <MoveList>Inaccuracy. Na7+ was best. \} (47. Na7+ Kb7 48. Kxd5 Kxa7 49.</MoveList>
+          <MoveList>Kc4 Rc6+ 50. Kd5 Rc2 51. Rxb4 Rxf2 52. g4 Rf3 53. Ke5 g5) 47...</MoveList>
+          <MoveList>Kd6 48. Nb5+?? \{ (-0.79 → -6.01) Blunder. Rb2 was best. \} (48.</MoveList>
+          <MoveList>Rb2 h5) 48... Kc6?? \{ (-6.01 → 0.00) Blunder. Rxb5 was best. \}</MoveList>
+          <MoveList>(48... Rxb5) 49. Nd4+ Kd6 \{ The game is a draw. \} 1/2-1/2</MoveList>
         </Game>
       </Round>
       <Round>

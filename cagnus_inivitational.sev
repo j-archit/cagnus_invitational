@@ -5,7 +5,7 @@
     <AppVsn>19.1.2</AppVsn>
     <Version>7.2.0</Version>
     <FileType>Competition file</FileType>
-    <Created>13-12-2021 09:49:55 PM</Created>
+    <Created>15-12-2021 12:17:17 AM</Created>
   </Contents>
   <Comp>
     <Name>Cagnus Invitational</Name>
@@ -2266,15 +2266,66 @@
           <GameID>1044</GameID>
           <White>7</White>
           <Black>4</Black>
-          <Res>15</Res>
+          <Res>3</Res>
           <Type>1</Type>
+          <MoveList>[Event \"Casual Rapid game\"]</MoveList>
+          <MoveList>[Site \"https://lichess.org/9JBd4pDl\"]</MoveList>
+          <MoveList>[Date \"2021.12.13\"]</MoveList>
+          <MoveList>[White \"ujjawalaggarwal955\"]</MoveList>
+          <MoveList>[Black \"whosaksham\"]</MoveList>
+          <MoveList>[Result \"0-1\"]</MoveList>
+          <MoveList>[UTCDate \"2021.12.13\"]</MoveList>
+          <MoveList>[UTCTime \"16:43:24\"]</MoveList>
+          <MoveList>[Variant \"Standard\"]</MoveList>
+          <MoveList>[TimeControl \"600+5\"]</MoveList>
+          <MoveList>[ECO \"C44\"]</MoveList>
+          <MoveList>[Opening \"Scotch Game: Scotch Gambit, Dubois Réti Defense\"]</MoveList>
+          <MoveList>[Termination \"Normal\"]</MoveList>
+          <MoveList>[Annotator \"lichess.org\"]</MoveList>
+          <MoveList></MoveList>
+          <MoveList>1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 \{ C44 Scotch Game:</MoveList>
+          <MoveList>Scotch Gambit, Dubois Réti Defense \} 5. Nxd4 d6 6. Na3 Bd7 7.</MoveList>
+          <MoveList>Qe2 Be7 8. Nf5 Bxf5 9. exf5 O-O 10. Bf4 d5 11. Bd3 Bxa3 12.</MoveList>
+          <MoveList>bxa3 Re8 13. Be4 Rxe4 14. Be3 d4 15. Qf3 dxe3 16. fxe3 Nd4 17.</MoveList>
+          <MoveList>Qf2 Ng4 18. Qg3 Nxc2+ 19. Ke2 Rxe3+ 20. Qxe3 Ngxe3 21. Rac1</MoveList>
+          <MoveList>Qe8 22. Rhe1 Nxg2+ 23. Kf1 Ngxe1 24. Kf2 Qe3+ 25. Kf1 Qxc1</MoveList>
+          <MoveList>26. Kf2 Nxa3 27. f6 Re8 28. fxg7 Nd3+ 29. Kg3 Nc5 30. Kg4 Re2</MoveList>
+          <MoveList>31. h4 Qf1 32. Kg5 Rg2+ 33. Kh5 Qf5+ 34. Kh6 Rg6# \{ Black wins</MoveList>
+          <MoveList>by checkmate. \} 0-1</MoveList>
         </Game>
         <Game>
           <GameID>1045</GameID>
           <White>6</White>
           <Black>2</Black>
-          <Res>15</Res>
+          <Res>3</Res>
           <Type>1</Type>
+          <MoveList>[Event \"Casual Rapid game\"]</MoveList>
+          <MoveList>[Site \"https://lichess.org/37Rydr86\"]</MoveList>
+          <MoveList>[Date \"2021.12.14\"]</MoveList>
+          <MoveList>[White \"VioletRiddle\"]</MoveList>
+          <MoveList>[Black \"angad24\"]</MoveList>
+          <MoveList>[Result \"0-1\"]</MoveList>
+          <MoveList>[UTCDate \"2021.12.14\"]</MoveList>
+          <MoveList>[UTCTime \"14:20:47\"]</MoveList>
+          <MoveList>[Variant \"Standard\"]</MoveList>
+          <MoveList>[TimeControl \"600+5\"]</MoveList>
+          <MoveList>[ECO \"D30\"]</MoveList>
+          <MoveList>[Opening \"Queen's Gambit Declined\"]</MoveList>
+          <MoveList>[Termination \"Normal\"]</MoveList>
+          <MoveList>[Annotator \"lichess.org\"]</MoveList>
+          <MoveList></MoveList>
+          <MoveList>1. d4 e6 2. c4 d5 \{ D30 Queen's Gambit Declined \} 3. e3 Nf6 4.</MoveList>
+          <MoveList>Nf3 Be7 5. Nc3 O-O 6. Be2 b6 7. O-O Bb7 8. Qb3 Nbd7 9. c5 Qc8</MoveList>
+          <MoveList>10. Bb5?? \{ (-0.40 → -2.58) Blunder. cxb6 was best. \} (10. cxb6)</MoveList>
+          <MoveList>10... bxc5 11. Bxd7 Nxd7 12. dxc5?! \{ (-2.78 → -3.74) Inaccuracy.</MoveList>
+          <MoveList>Re1 was best. \} (12. Re1 c4 13. Qc2 c5 14. b3 Re8 15. Bd2 Ba6</MoveList>
+          <MoveList>16. h3 h6 17. Na4 cxd4 18. exd4 cxb3) 12... Nxc5 13. Qb5? \{ (-</MoveList>
+          <MoveList>3.88 → -8.06) Mistake. Qc2 was best. \} (13. Qc2 Na6) 13... Ba6</MoveList>
+          <MoveList>14. Qc6 Bxf1 15. Kxf1 Qd7 16. Ne5 Qxc6 17. Nxc6 Bf6 18. Ne2</MoveList>
+          <MoveList>Nd3 19. Ned4 e5 20. Nf5 e4 21. Nfd4 a5 22. a4 Ra6 23. Ra3 h6</MoveList>
+          <MoveList>24. Rc3 Kh7 25. f3 Rc8 26. fxe4 dxe4 27. Rc5 h5 28. Bd2 Nxc5 29.</MoveList>
+          <MoveList>Nxa5 Nxa4 30. b3 Nc5 31. Nc4 Nd3 32. Ke2 Bxd4 33. exd4 Rb8</MoveList>
+          <MoveList>34. b4 Ra2 \{ White resigns. \} 0-1</MoveList>
         </Game>
         <Game>
           <GameID>1043</GameID>

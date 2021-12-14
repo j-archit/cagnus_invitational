@@ -1,0 +1,28 @@
+[Event "Cagnus Invitational"]
+[Site ""]
+[Date "2021.12.09"]
+[Round "7"]
+[White "Raghav"]
+[Black "Angad"]
+[Result "0-1"]
+[WhiteElo "1363"]
+[BlackElo "1800"]
+
+{[%SevillaID "1045"]}
+[Event "Casual Rapid game"] [Site "https://lichess.org/37Rydr86"] [Date
+"2021.12.14"] [White "VioletRiddle"] [Black "angad24"] [Result "0-1"] [UTCDate
+"2021.12.14"] [UTCTime "14:20:47"] [Variant "Standard"] [TimeControl "600+5"]
+[ECO "D30"] [Opening "Queen's Gambit Declined"] [Termination "Normal"]
+[Annotator "lichess.org"]  1. d4 e6 2. c4 d5 { D30 Queen's Gambit Declined } 3.
+e3 Nf6 4. Nf3 Be7 5. Nc3 O-O 6. Be2 b6 7. O-O Bb7 8. Qb3 Nbd7 9. c5 Qc8 10.
+Bb5?? { (-0.40 ? -2.58) Blunder. cxb6 was best. } (10. cxb6) 10... bxc5 11. Bxd7
+Nxd7 12. dxc5?! { (-2.78 ? -3.74) Inaccuracy. Re1 was best. } (12. Re1 c4 13.
+Qc2 c5 14. b3 Re8 15. Bd2 Ba6 16. h3 h6 17. Na4 cxd4 18. exd4 cxb3) 12... Nxc5
+13. Qb5? { (-3.88 ? -8.06) Mistake. Qc2 was best. } (13. Qc2 Na6) 13... Ba6 14.
+Qc6 Bxf1 15. Kxf1 Qd7 16. Ne5 Qxc6 17. Nxc6 Bf6 18. Ne2 Nd3 19. Ned4 e5 20. Nf5
+e4 21. Nfd4 a5 22. a4 Ra6 23. Ra3 h6 24. Rc3 Kh7 25. f3 Rc8 26. fxe4 dxe4 27.
+Rc5 h5 28. Bd2 Nxc5 29. Nxa5 Nxa4 30. b3 Nc5 31. Nc4 Nd3 32. Ke2 Bxd4 33. exd4
+Rb8 34. b4 Ra2 { White resigns. } 0-1 
+0-1
+
+
